@@ -1,0 +1,306 @@
+.thim-search-room {
+  .hotel-booking-search {
+    padding: 0;
+    &:before {
+      position: absolute;
+      content: "";
+      top: -17px;
+      left: -17px;
+      border-left: transparent;
+      border-top: transparent;
+      border-bottom: #eaeaea;
+      border-style: solid;
+      border-width: 17px;
+      border-right: transparent;
+      border-bottom-width: 45px;
+      box-shadow: 0 -1px 0 -1px #cfcfcf;
+    }
+    &:after {
+      position: absolute;
+      content: "";
+      top: -17px;
+      right: -17px;
+      border-right: transparent;
+      border-top: transparent;
+      border-bottom: #eaeaea;
+      border-style: solid;
+      border-width: 17px;
+      border-left: transparent;
+      border-bottom-width: 45px;
+      box-shadow: 0 -1px 0 -1px #cfcfcf;
+    }
+    form {
+      background-color: #fff;
+      display: block;
+      padding: 30px 45px;
+      box-shadow: 0px 0px 5px 0 rgba(0, 0, 0, 0.15);
+      max-width: 1170px;
+      margin: 0 auto;
+      &:after {
+        content: '';
+        display: block;
+        clear: both;
+      }
+      .hb-form-table {
+        width: 80%;
+        float: left;
+        .hb-form-field {
+          width: 25%;
+          padding: 0 10px;
+          margin: 0;
+          float: left;
+          .hb_input_field {
+            display: block;
+          }
+          input, button, select {
+            width: 100%;
+            min-width: auto;
+          }
+        }
+      }
+      .hb-submit {
+        width: 20%;
+        float: left;
+        padding: 0 10px;
+        button {
+          width: 100%;
+          min-width: auto;
+        }
+      }
+    }
+    input {
+      &::-webkit-input-placeholder {
+        color: #7a7a7a;
+      }
+      &:-moz-placeholder {
+        color: #7a7a7a;
+      }
+      &::-moz-placeholder {
+        color: #7a7a7a;
+      }
+      &:-ms-input-placeholder {
+        color: #7a7a7a;
+      }
+      &:before {
+        content: "\f073";
+        display: block;
+        position: aboslute;
+        top: 10px;
+        right: 10px;
+      }
+    }
+    input, button, select {
+      line-height: 40px;
+      padding: 0px 8px;
+    }
+    .hb-form-field {
+      position: relative;
+      .hb_input_field {
+        .hb_input_date_check {
+          padding-right: 20px;
+        }
+        input {
+          &.error {
+            border-color: red;
+            &:focus {
+              .rounded(3px);
+            }
+          }
+        }
+      }
+    }
+  }
+
+  &.thim-search-no-padding {
+    form {
+      background: transparent;
+      box-shadow: none;
+      padding-left: 0;
+      padding-right: 0;
+      margin-left: -10px;
+      margin-right: -10px;
+      max-width: 1190px;
+      &:after, &:before {
+        display: none;
+      }
+      .thim-bg-black-overlay & {
+        input, button, select {
+          border-color: transparent;
+        }
+      }
+    }
+  }
+}
+
+form[name=hb-payment-form],
+form[name=hb-search-form] {
+  button.hb_loading {
+    position: relative;
+    cursor: progress;
+    border: 0;
+    &:before {
+      content: '';
+      position: absolute;
+      display: block;
+      left: 0;
+      right: 0;
+      top: 0;
+      bottom: 0;
+      background-image: url('../../images/loading.gif');
+      background-position: center center;
+      background-repeat: no-repeat;
+      background-color: rgba(255, 255, 255, 0.5) !important;
+      .rounded(3px);
+    }
+  }
+}
+
+.hotel_booking_invalid_quantity .dk-selected {
+  border-color: red;
+}
+
+.hotel_checkout_errors {
+  display: none;
+}
+
+button.ui-datepicker-trigger {
+  cursor: pointer !important;
+  position: absolute !important;
+  display: inline;
+  padding: 0 !important;
+  font-size: 13px;
+  background: transparent !important;
+  color: #aaa;
+  left: 0;
+  text-align: right;
+  border-color: transparent !important;
+  //i {
+  //  position: absolute;
+  //  top: -30px;
+  //  right: 10px;
+  //}
+  &:before {
+    display: none !important;
+  }
+}
+
+.hb_input_field:after {
+  display: none;
+}
+
+.thim-search-room-slider {
+  margin-top: -550px;
+  background: rgba(0, 0, 0, 0.7);
+  width: 373px;
+  right: 0;
+  float: right;
+  height: 550px;
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+  position: relative;
+  .wrapper-line-heading {
+    padding-bottom: 0;
+    .heading__primary {
+      font-size: 30px;
+      color: #FFF;
+    }
+    .line-heading {
+      margin: 0px auto;
+    }
+  }
+  .hb-form-field {
+    text-align: left;
+  }
+  .hotel-booking-search button, .hotel-booking-search input, .hotel-booking-search select, .hotel-booking-search textarea {
+    width: 100%;
+  }
+  .hb_input_field {
+    width: 100%;
+    display: block;
+  }
+  .hotel-booking-search {
+    padding: 13px 58px;
+  }
+  .widget_search-room {
+    position: absolute;
+    top: 50%;
+    .translate(0; -50%);
+    left: 0;
+    right: 0;
+  }
+}
+
+.widget_heading {
+  .text-left {
+    .sc-heading {
+      text-align: left;
+      padding-top: 0;
+      padding-bottom: 0;
+    }
+    .heading__primary {
+      font-size: 40px;
+    }
+
+  }
+}
+
+.widget_hb_widget_carousel {
+  .nav-right {
+    .hb_room_carousel_container {
+      position: relative;
+      margin-bottom: 79px;
+      .navigation {
+        display: inline-block;
+        float: right;
+      }
+      .text_link {
+        text-align: right;
+        position: absolute;
+        right: 0;
+        top: 0;
+        margin: 0 63px;
+      }
+      .hb_room_carousel {
+        padding-top: 100px;
+      }
+    }
+  }
+}
+
+.thim-border-bottom:after {
+  border-bottom: 1px solid #eee;
+  position: relative;
+  margin-left: 15px;
+  margin-right: 15px;
+  display: block;
+}
+
+.hb-search-room-results .hb_success_message {
+  display: none !important;
+}
+
+.hotel-booking-search button, .hotel-booking-search input, .hotel-booking-search select, .hotel-booking-search textarea {
+  &.error {
+    border-color: red;
+  }
+}
+
+@media screen and (-webkit-min-device-pixel-ratio: 0) {
+
+  button.ui-datepicker-trigger i {
+    padding: 10px;
+  }
+
+  /* Safari only override */
+  ::i-block-chrome, .home button.ui-datepicker-trigger i {
+    position: absolute;
+    top: -40px;
+    right: 10px;
+  }
+
+}
+
+.rtl button.ui-datepicker-trigger i {
+  float: left;
+}

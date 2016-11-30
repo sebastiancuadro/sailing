@@ -1,0 +1,176 @@
+/* Sailing v1.9.8 - 2016-10-25 */
+- Update: navigation room archive
+- Fixed: Widgets have class thim-fixed
+- Fixed: Logo.
+- Fixed: Header default and Header overlay.
+- Fixed: Top image in page.
+
+/* Sailing v1.9.7 - 2016-09-12 */
+- Updated: Demo data
+- Fixed: Widget Thim Testimonials
+- Added: Options to show/hide room information in Single room page
+- Update: UI/UX.
+- Update: Widget Thim Video
+- Update: tp-hotel-booking 1.1.5.7 - fixed update cart.
+
+/* Sailing v1.9.6.9 - 2016-06-30 */
+- Update: outdated some WooCommerce template files version 2.6.2
+- Fixed: Api for widget Google Map
+
+/* Sailing v1.9.6.8 - 2016-06-22 */
+- Fixed: Gallery images in single room page
+- Fixed: Widget Google Map
+
+/* Sailing v1.9.6.7 - 2016-06-20 */
+- Updated: version of plugins required
+
+
+/* Sailing v1.9.6.6 - 2016-06-15 */
+- Fixed: Install required plugins.
+- Updated: outdated some WooCommerce template files version 2.6.0
+
+
+/* Sailing v1.9.6.5 - 2016-06-14 */
+- Fixed: Gallery images in single room page
+
+/* Sailing v1.9.6.4 - 2016-06-02 */
+- Updated: Option custom title for Single room page
+- Updated: Option show/hide Read more button in Blog page
+- Updated: Show more thumbnails of gallery images in Single room page
+- Fixed: Install plugin Hotel Importer
+- Fixed: Share Facebook in Blog page
+- Fixed: Menu on mobile
+- Fixed: Search room page on mobile
+- Fixed: Video not working on mobile
+
+
+/* Sailing v1.9.6.3 - 2016-05-10 */
+- Fixed: Install plugin TP Hotel Booking Importer
+
+/* Sailing v1.9.6.2 - 2016-05-06 */
+- Updated: Plugin Thim Framework
+- Updated: Plugin Hotel Booking
+- Updated: Price Importer
+- Fixed: Add images for Gallery.
+
+/* Sailing v1.9.6.1 - 2016-04-25 */
+- Updated: Thim Framework 1.9.3.1
+
+/* Sailing v1.9.6 - 2016-04-22 */
+- Added: Child theme.
+- Updated: TP Hotel Booking
+- Updated: Thim Framework
+- Updated: Demo data
+
+/* Sailing v1.9.5 - 2016-04-19 */
+- Added: New home page (home 5) and new header style 2.
+- Updated: New social icon for Thim: Social widget.
+- Updated: New option muted audio, new option auto play, UX/UI for widget Thim: Icon Box (video background).
+- Updated: UX/UI Search room, checkout.
+- Updated: Option custom footer text/link color.
+- Updated: Option custom preload (allow change background color, logo image).
+- Fixed: Style single room on mobile, style rooms archive.
+- Improved: Optimize performance.
+- Compatible up to: wordpress 4.5.
+
+/* Sailing v1.9.4 - 2016-03-29 */
+- Fixed: Filter gallery.
+- Fixed: Draggable google map.
+
+/* Sailing v1.9.3 - 2016-03-18 */
+- New: Option ref attribute (Widget Social Link).
+- Updated: UI/UX.
+- Updated: Optimize performance.
+- Fixed: Gallery select images.
+- Fixed: Header Default Style.
+
+/* Sailing v1.9.2 - 2016-03-04 */
+- Update: Option logo in mobile
+- Update: Option limit post for widget gallery
+- Update: Option instagram for widget Social Link
+
+/* Sailing v1.9.1 - 2016-02-23 */
+- Improved plugin thim-framework.
+- Fixed use top image for category.
+- Updated heading top.
+
+/* Sailing v1.9 - 2016-02-19 */
+- Updated mobile menu on window phone.
+- Updated some customizer options header style.
+- Updated room type title.
+- Updated load file language.
+- Updated missing logo after imported demo.
+- Removed some unused customizer options.
+- Added option coordinates for widget google map.
+- Updated plugin tp-hotel-booking v1.1.2
+	+ Added template taxonomy room type.
+	+ Translate calendar search widget.
+	+ Updated calendar format.
+	+ Updated capacity (Removed some option, Added term meta, Search query , Admin capacity).
+
+/* Sailing v1.8 - 2016-02-05 */
+- Updated carousel room widget.
+- Updated related room carousel.
+- Updated plugin tp-hotel-booking v1.1.1
+	+ Updated Resize image, gallery, archive rooms.
+	+ Updated Session class.
+	+ Updated Loco Translation & Multi languages.
+
+/* Sailing v1.7 - 2016-02-03 */
+- Updated to work perfectly on SSL.
+- Updated parallax.
+- Updated plugin tp-hotel-booking v1.1.
+	+ Add Sessions Class, Update Cart Class.
+	+ Optimize process checkout.
+	+ Remove data saving booking if it not useful( postmeta ).
+	+ Optimize Payment Stripe process( remove stripe sdk, use REST API ).
+	+ Admin booking details.
+	+ Updated hook process addon.
+
+/* Sailing v1.6 - 2016-01-18 */
+- Updated blog style.
+- Updated single room style.
+- Updated shop style.
+- Updated demo data.
+- Updated template woocommerce.
+- Updated plugin tp-hotel-booking v1.0.3.
+	+ Update, Add hook ajax search url result. 'hotel_booking_parse_search_param', 'hotel_booking_ajax_remove_cart_item'.
+	+ Addon Block Special Date( Angular js, ajax ).
+	+ Updated Rating.
+
+/* Sailing v1.5 - 2016-01-05 */
+- Updated file language.
+- Updated plugin tp-hotel-booking v1.0.2.
+	+ Updated Woocommerce addon.
+	+ Search rooms. Import demo data more than once. post_meta not unique.
+
+/* Sailing v1.4 - 2015-12-31 */
+- Updated widget gallery.
+- Updated top header image.
+- Updated gallery slider single room.
+- Updated mobile logo.
+- Updated mobile menu.
+
+/* Sailing v1.3 - 2015-12-23 */
+- Updated responsive room archive column.
+- Updated widget gallery.
+- Updated widget iconbox.
+- Updated plugin Thim Framwork v1.1.
+
+/* Sailing v1.2 - 2015-12-16 */
+- Updated plugin tp-hotel-booking v1.0.1.
+	+ Fixed load text-domain.
+	+ Added language file en_US.
+	+ Added Extra Package.
+	+ Updated, Fixed Query search.
+	+ Query search booking_pricing( Admin panel ).
+	+ Woocommerce Payment( Addon ).
+
+/* Sailing v1.1 - 2015-11-20 */
+- Updated customize options.
+- Updated document.
+- Updated image demo.
+- Updated plugin tp-hotel-booking v1.0.
+
+/* Sailing v1.0 - 2015-11-9 */
+- Released Sailing - Hotel WordPress Theme.

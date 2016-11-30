@@ -1,0 +1,113 @@
+.tp-hotel-booking{
+    #reviews{
+        .commentlist{
+            .comment{
+                padding: 50px 0;
+                overflow: hidden;
+                margin-bottom: 12px;
+                background: #fff;
+                border: 0;
+                border-top: 1px solid #ededed;
+                .avatar{
+                    width: 70px;
+                    height: 70px;
+                    border: 0;
+                    padding: 0;
+                    background: 0 0;
+                    border-radius: 50%;
+                    margin-right: 30px;
+                    float: left;
+                    position: relative;
+                    top: auto;
+                    left: auto;
+                    right: auto;
+                    bottom: auto
+                }
+                .comment-text {
+                    width: calc(~"100% - 100px");
+                    width: -webkit-calc(~"100% - 100px");
+                    width: -moz-calc(~"100% - 100px");
+                    float: right;
+                    margin: 0;
+                    margin-top: -3px
+                }
+                .meta {
+                    display: inline-block;
+                    float: left;
+                    margin-right: 40px;
+                    .author {
+                        display: inline-block;
+                        font-weight: 700;
+                        font-size: 17px;
+                        margin: 0;
+                        margin-right: 40px;
+                        line-height: 26px;
+                        text-transform: capitalize
+                    }
+                    .date {
+                        margin-right: 0;
+                        line-height: 26px;
+                        color: #ccc;
+                        font-size: 13px;
+                        font-weight: 400;
+                        display: inline-block
+                    }
+                }
+                .star-rating {
+                    float: left;
+                    width: 93px;
+                    font-size: 13px;
+                    height: 26px;
+                    line-height: 26px;
+                    display: inline-block;
+                    letter-spacing: 5px;
+                    overflow: hidden;
+                    &:before {
+                        top: 0;
+                        left: 0;
+                        bottom: 0;
+                        line-height: 26px
+                    }
+                    span {
+                        padding: 0;
+                        top: 0;
+                        left: 0;
+                        bottom: 0;
+                        line-height: 26px;
+                        color: transparent;
+                        position: absolute;
+                        height: auto
+                    }
+                }
+                .description {
+                    clear: both
+                }
+            }
+        }
+        #review_form_wrapper {
+            clear: both;
+            .comment-form{
+                label{
+                    margin-bottom: 10px;
+                    display: block;
+                    font-size: 15px;
+                    font-weight: 400;
+                }
+                .comment-form-rating{
+                    margin-bottom: 10px;
+                    label{
+                        margin-bottom: 5px;
+                    }
+                }
+            }
+        }
+    }
+}
+
+.hb-rating-input{
+    width: 90px;
+    .rating-input{
+        width: 18px;
+        font-size: 13px;
+    }
+}

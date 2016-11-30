@@ -1,0 +1,106 @@
+.sc-heading {
+	text-align:     center;
+	padding-top:    60px;
+	padding-bottom: 43px;
+}
+
+.heading__secondary {
+	position:       relative;
+	font-weight:    normal;
+	letter-spacing: 0;
+	text-transform: none;
+	padding:        0 30px;
+	margin:         0 -30px;
+}
+
+.heading__primary {
+	margin:      0;
+	position:    relative;
+	line-height: 1em;
+
+}
+
+.wrapper-line-heading {
+	padding-bottom: 50px;
+	.line-heading {
+ 		width:   75px;
+		height:  7px;
+		margin:  32px auto 0 auto;
+		display: inline-block;
+		position: relative;
+		overflow: hidden;
+		&:before,&:after,span:before,span:after {
+			content: "";
+			width: 30px;
+			border-width: 1px 0;
+			border-style: solid;
+			height: 12px;
+			display: inline-block;
+			-moz-transform: rotate(-38deg);
+			-webkit-transform: rotate(-38deg);
+			-ms-transform: rotate(-38deg);
+			-o-transform: rotate(-38deg);
+			transform: rotate(-38deg);
+			position: absolute;
+			left: 0;
+		}
+		&:after,span:after{
+			-moz-transform: rotate(38deg);
+			-webkit-transform: rotate(38deg);
+			-ms-transform: rotate(38deg);
+			-o-transform: rotate(38deg);
+			transform: rotate(38deg);
+			left: 14px;
+		}
+		span:before{
+			left: 34px;
+		}
+		span:after{
+			left: 48px;
+		}
+	}
+	.heading__primary{
+    font-size: 40px;
+    font-weight: 600;
+  }
+	.heading__secondary{
+	  margin-top: 2px;
+	}
+}
+
+.otreservations-description {
+	text-align: center;
+}
+
+.widget-title {
+	position:      relative;
+	margin-bottom: 55px;
+	&:after {
+		width:    30px;
+		height:   1px;
+		content:  "";
+		position: absolute;
+		bottom:   -20px;
+		left:     0;
+	}
+	//.instagram-slider &{
+	  //margin-bottom: 45px;
+	//}
+}
+
+.footer{
+	.widget-title{
+		margin-bottom: 20px;
+		&:after{
+			display: none;
+		}
+	}
+}
+
+.sidebar {
+	.widget-title {
+		&:after {
+			display: none;
+		}
+	}
+}

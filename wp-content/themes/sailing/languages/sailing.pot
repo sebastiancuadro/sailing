@@ -1,0 +1,2771 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: sailing\n"
+"POT-Creation-Date: 2016-09-22 11:45+0700\n"
+"PO-Revision-Date: 2016-09-22 11:46+0700\n"
+"Last-Translator: \n"
+"Language-Team: ThimPress <admin@thimpress.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.7\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_attr_e;_n;_nx;_n_noop;esc_html__;"
+"esc_html_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:11
+msgid "Sorry, we couldn't find the page you're looking for."
+msgstr ""
+
+#: ../comments.php:34 ../comments.php:53
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:36 ../comments.php:55
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:37 ../comments.php:56
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:45 ../inc/template-tags.php:205
+msgid "1 Comment"
+msgstr ""
+
+#: ../comments.php:64
+msgid "Comments are closed."
+msgstr ""
+
+#: ../comments.php:68
+msgid "Leave A Reply"
+msgstr ""
+
+#: ../comments.php:69
+msgid "Post Comment"
+msgstr ""
+
+#: ../comments.php:70
+msgid "Comment"
+msgstr ""
+
+#: ../content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: ../content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../content-none.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../content-page.php:14 ../content-single.php:27
+msgid "Pages:"
+msgstr ""
+
+#: ../content.php:69
+msgid "Read More"
+msgstr ""
+
+#: ../footer.php:41
+msgid "Go To Top"
+msgstr ""
+
+#: ../functions.php:47
+msgid "Primary Menu"
+msgstr ""
+
+#: ../functions.php:86 ../inc/widgets/list-post/list-post.php:91
+msgid "Sidebar"
+msgstr ""
+
+#: ../functions.php:96 ../inc/admin/customizer-sections/header-toolbar.php:3
+msgid "Toolbar"
+msgstr ""
+
+#: ../functions.php:106
+msgid "Logo Left"
+msgstr ""
+
+#: ../functions.php:116
+msgid "Logo Right"
+msgstr ""
+
+#: ../functions.php:128
+msgid "Menu Right"
+msgstr ""
+
+#: ../functions.php:138
+#: ../inc/admin/customizer-sections/header-offcanvas.php:5
+msgid "Offcanvas Sidebar"
+msgstr ""
+
+#: ../functions.php:147
+msgid "Main Bottom"
+msgstr ""
+
+#: ../functions.php:156 ../inc/admin/customizer-sections/footer-options.php:4
+#: ../inc/admin/customizer-sections/footer.php:3
+msgid "Footer"
+msgstr ""
+
+#: ../functions.php:265
+msgid "Thim Widget"
+msgstr ""
+
+#: ../functions.php:277
+msgid "Parallax"
+msgstr ""
+
+#: ../functions.php:280
+msgid "If enabled, the background image will have a parallax effect."
+msgstr ""
+
+#: ../functions.php:319
+#: ../inc/admin/customizer-sections/display-sharing.php:10
+#: ../inc/admin/customizer-sections/hotelbooking-share.php:10
+#: ../inc/admin/customizer-sections/woocommerce-sharing.php:10
+#: ../inc/custom-functions.php:218 ../inc/widgets/social/social.php:135
+#: ../woocommerce/woocommerce.php:103
+msgid "Facebook"
+msgstr ""
+
+#: ../functions.php:322
+#: ../inc/admin/customizer-sections/display-sharing.php:18
+#: ../inc/admin/customizer-sections/hotelbooking-share.php:18
+#: ../inc/admin/customizer-sections/woocommerce-sharing.php:18
+#: ../inc/custom-functions.php:221 ../inc/widgets/social/social.php:136
+#: ../woocommerce/woocommerce.php:106
+msgid "Twitter"
+msgstr ""
+
+#: ../functions.php:325
+#: ../inc/admin/customizer-sections/display-sharing.php:35
+#: ../inc/admin/customizer-sections/hotelbooking-share.php:35
+#: ../inc/admin/customizer-sections/woocommerce-sharing.php:35
+#: ../inc/custom-functions.php:227 ../inc/widgets/social/social.php:139
+#: ../woocommerce/woocommerce.php:109
+msgid "Pinterest"
+msgstr ""
+
+#: ../functions.php:328
+#: ../inc/admin/customizer-sections/display-sharing.php:27
+#: ../inc/admin/customizer-sections/hotelbooking-share.php:27
+#: ../inc/admin/customizer-sections/woocommerce-sharing.php:27
+#: ../inc/custom-functions.php:224 ../inc/widgets/social/social.php:138
+#: ../woocommerce/woocommerce.php:112
+msgid "Google Plus"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/custom-css.php:3
+#: ../inc/admin/customizer-sections/custom-css.php:11
+msgid "Custom CSS"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/custom-css.php:14
+msgid "Put your additional CSS rules here"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/display-404.php:6
+msgid "Page 404"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/display-404.php:9
+msgid "It just works with header option: Overlay"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/display-404.php:13
+#: ../inc/admin/customizer-sections/display-archive.php:33
+#: ../inc/admin/customizer-sections/display-frontpage.php:32
+#: ../inc/admin/customizer-sections/display-postpage.php:32
+#: ../inc/admin/customizer-sections/hotelbooking-archive.php:40
+#: ../inc/admin/customizer-sections/hotelbooking-single.php:40
+#: ../inc/admin/customizer-sections/woocommerce-archive.php:29
+#: ../inc/admin/customizer-sections/woocommerce-single.php:31
+msgid "Top Image"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/display-404.php:16
+#: ../inc/admin/customizer-sections/display-archive.php:36
+#: ../inc/admin/customizer-sections/display-frontpage.php:35
+#: ../inc/admin/customizer-sections/display-postpage.php:35
+#: ../inc/admin/customizer-sections/hotelbooking-archive.php:43
+#: ../inc/admin/customizer-sections/hotelbooking-single.php:43
+#: ../inc/admin/customizer-sections/woocommerce-archive.php:32
+#: ../inc/admin/customizer-sections/woocommerce-single.php:34
+msgid "Enter URL or Upload an top image file for header"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/display-404.php:21
+msgid "Background Top Heading Color"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/display-archive.php:6
+#: ../inc/admin/customizer-sections/hotelbooking-archive.php:6
+msgid "Archive"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/display-archive.php:13
+#: ../inc/admin/customizer-sections/hotelbooking-archive.php:13
+#: ../inc/admin/customizer-sections/woocommerce-archive.php:9
+msgid "Archive Layout"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/display-archive.php:25
+#: ../inc/admin/customizer-sections/display-frontpage.php:24
+#: ../inc/admin/customizer-sections/display-postpage.php:24
+#: ../inc/admin/customizer-sections/hotelbooking-archive.php:25
+#: ../inc/admin/customizer-sections/hotelbooking-single.php:25
+#: ../inc/admin/customizer-sections/woocommerce-archive.php:21
+#: ../inc/admin/customizer-sections/woocommerce-single.php:23
+#: ../inc/tax-meta.php:46
+msgid "Hide Title"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/display-archive.php:28
+#: ../inc/admin/customizer-sections/display-frontpage.php:27
+#: ../inc/admin/customizer-sections/display-postpage.php:27
+#: ../inc/admin/customizer-sections/hotelbooking-archive.php:28
+#: ../inc/admin/customizer-sections/hotelbooking-single.php:28
+#: ../inc/admin/customizer-sections/hotelbooking-single.php:74
+#: ../inc/admin/customizer-sections/hotelbooking-single.php:82
+#: ../inc/admin/customizer-sections/hotelbooking-single.php:90
+#: ../inc/admin/customizer-sections/woocommerce-archive.php:24
+#: ../inc/admin/customizer-sections/woocommerce-single.php:26
+msgid "Hide/show"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/display-archive.php:42
+#: ../inc/admin/customizer-sections/display-frontpage.php:41
+#: ../inc/admin/customizer-sections/display-postpage.php:41
+#: ../inc/admin/customizer-sections/hotelbooking-archive.php:49
+#: ../inc/admin/customizer-sections/hotelbooking-single.php:49
+#: ../inc/admin/customizer-sections/woocommerce-archive.php:38
+#: ../inc/admin/customizer-sections/woocommerce-single.php:40
+msgid "Background Heading Color"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/display-archive.php:49
+#: ../inc/admin/customizer-sections/display-frontpage.php:48
+#: ../inc/admin/customizer-sections/display-postpage.php:48
+#: ../inc/admin/customizer-sections/hotelbooking-archive.php:56
+#: ../inc/admin/customizer-sections/hotelbooking-single.php:56
+#: ../inc/admin/customizer-sections/woocommerce-archive.php:45
+#: ../inc/admin/customizer-sections/woocommerce-single.php:47
+#: ../inc/tax-meta.php:45
+msgid "Text Color Heading"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/display-archive.php:56
+#: ../inc/admin/customizer-sections/display-frontpage.php:61
+#: ../inc/admin/customizer-sections/display-postpage.php:54
+#: ../inc/admin/customizer-sections/hotelbooking-archive.php:63
+#: ../inc/admin/customizer-sections/hotelbooking-single.php:63
+#: ../inc/admin/customizer-sections/woocommerce-archive.php:52
+#: ../inc/admin/customizer-sections/woocommerce-single.php:54
+msgid "Sub Title"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/display-archive.php:63
+msgid "Excerpt Length"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/display-archive.php:66
+msgid ""
+"Enter the number of words you want to cut from the content to be the excerpt "
+"of search and archive and portfolio page."
+msgstr ""
+
+#: ../inc/admin/customizer-sections/display-archive.php:73
+msgid "Show Read more"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/display-archive.php:76
+#: ../inc/admin/customizer-sections/display-archive.php:84
+#: ../inc/admin/customizer-sections/display-archive.php:92
+#: ../inc/admin/customizer-sections/display-archive.php:100
+#: ../inc/admin/customizer-sections/display-postpage.php:64
+#: ../inc/admin/customizer-sections/display-postpage.php:72
+#: ../inc/admin/customizer-sections/display-postpage.php:80
+#: ../inc/admin/customizer-sections/display-postpage.php:87
+#: ../inc/admin/customizer-sections/header-offcanvas.php:14
+#: ../inc/admin/customizer-sections/header-toolbar.php:13
+#: ../inc/admin/customizer-sections/header-topdrawer.php:13
+msgid "Show/hide"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/display-archive.php:81
+#: ../inc/admin/customizer-sections/display-postpage.php:61
+msgid "Show category"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/display-archive.php:89
+#: ../inc/admin/customizer-sections/display-postpage.php:77
+msgid "Show Author"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/display-archive.php:97
+#: ../inc/admin/customizer-sections/display-postpage.php:84
+msgid "Show Comment"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/display-frontpage.php:6
+msgid "Frontpage"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/display-frontpage.php:12
+msgid "Front Page Layout"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/display-frontpage.php:55
+msgid "Custom Title"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/display-postpage.php:69
+msgid "Show Date"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/display-sharing.php:3
+#: ../inc/admin/customizer-sections/hotelbooking-share.php:3
+#: ../inc/admin/customizer-sections/woocommerce-sharing.php:3
+msgid "Sharing"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/display-sharing.php:13
+#: ../inc/admin/customizer-sections/hotelbooking-share.php:13
+#: ../inc/admin/customizer-sections/woocommerce-sharing.php:13
+msgid "Show the facebook sharing option in product."
+msgstr ""
+
+#: ../inc/admin/customizer-sections/display-sharing.php:21
+#: ../inc/admin/customizer-sections/hotelbooking-share.php:21
+#: ../inc/admin/customizer-sections/woocommerce-sharing.php:21
+msgid "Show the twitter sharing option in product."
+msgstr ""
+
+#: ../inc/admin/customizer-sections/display-sharing.php:30
+#: ../inc/admin/customizer-sections/hotelbooking-share.php:30
+#: ../inc/admin/customizer-sections/woocommerce-sharing.php:30
+msgid "Show the g+ sharing option in product."
+msgstr ""
+
+#: ../inc/admin/customizer-sections/display-sharing.php:38
+#: ../inc/admin/customizer-sections/hotelbooking-share.php:38
+#: ../inc/admin/customizer-sections/woocommerce-sharing.php:38
+msgid "Show the pinterest sharing option in product."
+msgstr ""
+
+#: ../inc/admin/customizer-sections/display.php:5
+msgid "Display"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/footer-copyright.php:3
+msgid "Copyright Options"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/footer-copyright.php:9
+msgid "Back To Top"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/footer-copyright.php:12
+msgid "Show or hide back to top"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/footer-copyright.php:17
+#: ../inc/admin/customizer-sections/footer-options.php:16
+#: ../inc/admin/customizer-sections/header-offcanvas.php:27
+#: ../inc/admin/metabox-sections/comingsoon.php:52
+msgid "Text Color"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/footer-copyright.php:26
+#: ../inc/admin/metabox-sections/comingsoon.php:81
+msgid "Copyright Text"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/footer-options.php:10
+msgid "Background footer images"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/footer-options.php:13
+#: ../inc/admin/customizer-sections/styling-pattern.php:40
+msgid "Upload your background"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/footer-options.php:23
+msgid "Title & Link Color"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/footer-options.php:30
+msgid "Background Color"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/footer-options.php:38
+msgid "Line Color"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/header-mainmenu.php:4
+msgid "Main Menu"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/header-mainmenu.php:10
+#: ../inc/admin/customizer-sections/header-mobile.php:13
+#: ../inc/admin/customizer-sections/header-offcanvas.php:19
+#: ../inc/admin/customizer-sections/header-setting.php:33
+#: ../inc/admin/customizer-sections/header-submenu.php:11
+#: ../inc/widgets/search-room/search-room.php:27
+msgid "Background color"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/header-mainmenu.php:11
+#: ../inc/admin/customizer-sections/header-mobile.php:14
+#: ../inc/admin/customizer-sections/header-stickymenu.php:31
+msgid "Pick a background color for main menu"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/header-mainmenu.php:18
+#: ../inc/admin/customizer-sections/header-mobile.php:22
+#: ../inc/admin/customizer-sections/header-setting.php:40
+#: ../inc/admin/customizer-sections/header-stickymenu.php:38
+#: ../inc/admin/customizer-sections/header-submenu.php:28
+msgid "Text color"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/header-mainmenu.php:19
+#: ../inc/admin/customizer-sections/header-mobile.php:23
+#: ../inc/admin/customizer-sections/header-stickymenu.php:39
+msgid "Pick a text color for main menu"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/header-mainmenu.php:26
+#: ../inc/admin/customizer-sections/header-mobile.php:31
+#: ../inc/admin/customizer-sections/header-setting.php:47
+#: ../inc/admin/customizer-sections/header-stickymenu.php:46
+msgid "Text Hover color"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/header-mainmenu.php:27
+#: ../inc/admin/customizer-sections/header-mobile.php:32
+#: ../inc/admin/customizer-sections/header-stickymenu.php:47
+msgid "Pick a text hover color for main menu"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/header-mainmenu.php:34
+#: ../inc/admin/customizer-sections/header-setting.php:54
+#: ../inc/admin/customizer-sections/header-toolbar.php:26
+#: ../inc/widgets/heading/heading.php:66
+#: ../inc/widgets/icon-box/icon-box.php:68
+msgid "Font Size"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/header-mainmenu.php:35
+msgid "Default is 13"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/header-mainmenu.php:43
+#: ../inc/admin/customizer-sections/header-setting.php:62
+msgid "Font Weight"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/header-mainmenu.php:44
+msgid "Default bold"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/header-mobile.php:6
+msgid "Mobile Menu"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/header-offcanvas.php:11
+msgid "Show or Hide"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/header-offcanvas.php:35
+msgid "Link Color"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/header-offcanvas.php:43
+#: ../inc/widgets/counters-box/counters-box.php:30
+msgid "Icon"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/header-setting.php:3
+#: ../inc/admin/customizer-sections/header.php:50
+msgid "Header"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/header-setting.php:9
+msgid "Select a Layout"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/header-setting.php:21
+msgid "Header Position"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/header-setting.php:25
+#: ../inc/widgets/gallery-images/gallery-images.php:45
+#: ../inc/widgets/heading/heading.php:46
+#: ../inc/widgets/icon-box/icon-box.php:48
+#: ../inc/widgets/icon-box/icon-box.php:423
+#: ../inc/widgets/social/social.php:171
+msgid "Default"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/header-setting.php:26
+msgid "Overlay"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/header-stickymenu.php:5
+msgid "Sticky Menu"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/header-stickymenu.php:11
+msgid "Sticky Menu on scroll"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/header-stickymenu.php:12
+msgid "Check to enable a fixed header when scrolling, uncheck to disable."
+msgstr ""
+
+#: ../inc/admin/customizer-sections/header-stickymenu.php:19
+msgid "Config Sticky Menu?"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/header-stickymenu.php:30
+msgid "Sticky Background color"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/header-submenu.php:5
+msgid "Sub Menu"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/header-submenu.php:12
+msgid "Pick a background color for sub menu"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/header-submenu.php:21
+msgid "Color Border Bottom"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/header-submenu.php:29
+msgid "Pick a text color for sub menu"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/header-submenu.php:36
+msgid "Text color hover"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/header-submenu.php:37
+msgid "Pick a text color hover for sub menu"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/header-toolbar.php:10
+msgid "Show or Hide Toolbar"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/header-topdrawer.php:4
+msgid "Drawer"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/header-topdrawer.php:10
+msgid "Show or Hide Drawer"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/header-topdrawer.php:25
+msgid "Drawer Background color"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/header-topdrawer.php:33
+msgid "Drawer Text color"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/header-topdrawer.php:41
+msgid "Drawer Style"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/header-topdrawer.php:60
+msgid "Drawer Open or Close"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/header-topdrawer.php:63
+msgid "Open/close"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/hotelbooking-archive.php:33
+msgid "Hotel Booking Title"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/hotelbooking-single.php:6
+msgid "Single"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/hotelbooking-single.php:13
+msgid "Single Layout"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/hotelbooking-single.php:33
+msgid "Single Room Title"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/hotelbooking-single.php:71
+msgid "Hide Description"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/hotelbooking-single.php:79
+msgid "Hide Additional Information"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/hotelbooking-single.php:87
+msgid "Hide Reviews"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/hotelbooking.php:5
+#: ../inc/templates/heading-top.php:136
+msgid "Hotel Booking"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/import-export.php:3
+msgid "Import/Export Settings"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/import-export.php:4
+msgid ""
+"You can export then import settings from one theme to another conveniently "
+"without any problem."
+msgstr ""
+
+#: ../inc/admin/customizer-sections/import-export.php:11
+msgid "Import Settings"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/import-export.php:14
+msgid ""
+"Click Upload button then choose a JSON file (.json) from your computer to "
+"import settings to this theme."
+msgstr ""
+
+#: ../inc/admin/customizer-sections/import-export.php:18
+msgid "Export Settings"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/import-export.php:21
+msgid ""
+"Simply click Download button to export all your settings to a JSON file (."
+"json)."
+msgstr ""
+
+#: ../inc/admin/customizer-sections/logo.php:11
+msgid "Header Logo"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/logo.php:14
+#: ../inc/admin/metabox-sections/comingsoon.php:15
+msgid "Upload your logo"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/logo.php:19
+msgid "Sticky Logo"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/logo.php:22
+msgid "Upload your sticky logo"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/logo.php:27
+msgid "Mobile Logo"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/logo.php:30
+msgid "Upload your mobile logo"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/logo.php:35
+msgid "Width Logo"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/logo.php:50
+msgid "Favicon"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/logo.php:53
+msgid "Upload your favicon"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/styling-color.php:3
+msgid "Background Color & Text Color"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/styling-color.php:10
+msgid "Body Background Color"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/styling-color.php:18
+msgid "Theme Primary Color"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/styling-layout.php:3
+msgid "Layout"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/styling-layout.php:8
+msgid "Select a layout"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/styling-pattern.php:3
+msgid "Pattern"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/styling-pattern.php:10
+msgid "Background Pattern"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/styling-pattern.php:13
+msgid ""
+"Check the box to display a pattern in the background. If checked, select the "
+"pattern from below."
+msgstr ""
+
+#: ../inc/admin/customizer-sections/styling-pattern.php:18
+msgid "Select a Background Pattern"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/styling-pattern.php:37
+msgid "Upload Background"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/styling-pattern.php:45
+msgid "Background Repeat"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/styling-pattern.php:58
+msgid "Background Position"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/styling-pattern.php:76
+msgid "Background Attachment"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/styling-pattern.php:90
+msgid "Background Size"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/styling-rtl.php:3
+msgid "RTL Support & Preload"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/styling-rtl.php:9
+msgid "RTL Support"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/styling-rtl.php:12
+#: ../inc/admin/customizer-sections/styling-rtl.php:20
+msgid "Enable/Disable"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/styling-rtl.php:17
+msgid "Import Demo Data"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/styling-rtl.php:26
+msgid "Preload"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/styling-rtl.php:31
+msgid "CSS 3"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/styling-rtl.php:32
+#: ../inc/widgets/gallery-images/gallery-images.php:19
+#: ../inc/widgets/single-images/single-images.php:18
+msgid "Image"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/styling-rtl.php:33
+#: ../inc/widgets/counters-box/counters-box.php:47
+#: ../inc/widgets/gallery-images/gallery-images.php:54
+#: ../inc/widgets/heading/heading.php:115
+#: ../inc/widgets/icon-box/icon-box.php:490
+#: ../inc/widgets/icon-box/icon-box.php:522
+#: ../inc/widgets/list-post/list-post.php:50
+#: ../inc/widgets/single-images/single-images.php:58
+msgid "No"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/styling-rtl.php:39
+msgid "Preload Image"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/styling-rtl.php:47
+msgid "Preload Background"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/typography.php:4
+msgid "Typography"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/typography.php:10
+msgid "Body"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/typography.php:15
+#: ../inc/admin/customizer-sections/typography.php:43
+#: ../inc/admin/customizer-sections/typography.php:69
+#: ../inc/admin/customizer-sections/typography.php:99
+#: ../inc/admin/customizer-sections/typography.php:129
+#: ../inc/admin/customizer-sections/typography.php:159
+#: ../inc/admin/customizer-sections/typography.php:189
+#: ../inc/admin/customizer-sections/typography.php:219
+msgid "Select Font"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/typography.php:36
+msgid "Font Sub Title"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/typography.php:64
+msgid "H1"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/typography.php:93
+msgid "H2"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/typography.php:123
+msgid "H3"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/typography.php:153
+msgid "H4"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/typography.php:183
+msgid "H5"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/typography.php:213
+msgid "H6"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/woocommerce-archive.php:3
+msgid "Category Products"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/woocommerce-setting.php:3
+msgid "Setting"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/woocommerce-setting.php:9
+msgid "Column"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/woocommerce-setting.php:19
+msgid "Number of Products per Page"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/woocommerce-setting.php:22
+msgid "Insert the number of posts to display per page."
+msgstr ""
+
+#: ../inc/admin/customizer-sections/woocommerce-setting.php:27
+msgid "Show QuickView in products list"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/woocommerce-single.php:3
+msgid "Product Page"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/woocommerce-single.php:10
+msgid "Select Layout Default"
+msgstr ""
+
+#: ../inc/admin/customizer-sections/woocommerce.php:4
+msgid "WooCommerce"
+msgstr ""
+
+#: ../inc/admin/metabox-sections/comingsoon.php:6
+msgid "Coming Soon Mode Options"
+msgstr ""
+
+#: ../inc/admin/metabox-sections/comingsoon.php:12
+msgid "Logo Page"
+msgstr ""
+
+#: ../inc/admin/metabox-sections/comingsoon.php:19
+msgid "Cover Color"
+msgstr ""
+
+#: ../inc/admin/metabox-sections/comingsoon.php:23
+msgid "Black"
+msgstr ""
+
+#: ../inc/admin/metabox-sections/comingsoon.php:24
+msgid "Blue"
+msgstr ""
+
+#: ../inc/admin/metabox-sections/comingsoon.php:25
+msgid "Green"
+msgstr ""
+
+#: ../inc/admin/metabox-sections/comingsoon.php:26
+msgid "Orange"
+msgstr ""
+
+#: ../inc/admin/metabox-sections/comingsoon.php:27
+msgid "Red"
+msgstr ""
+
+#: ../inc/admin/metabox-sections/comingsoon.php:33
+msgid "Background video"
+msgstr ""
+
+#: ../inc/admin/metabox-sections/comingsoon.php:47
+#: ../inc/widgets/icon-box/icon-box.php:447
+msgid ""
+"Select an uploaded video in mp4 format. Other formats, such as webm and ogv "
+"will work in some browsers. You can use an online service such as <a "
+"href='http://video.online-convert.com/convert-to-mp4' target='_blank'>online-"
+"convert.com</a> to convert your videos to mp4."
+msgstr ""
+
+#: ../inc/admin/metabox-sections/comingsoon.php:59
+msgid "Date Option"
+msgstr ""
+
+#: ../inc/admin/metabox-sections/comingsoon.php:62
+#: ../inc/admin/metabox-sections/event.php:26
+#: ../inc/admin/metabox-sections/event.php:34
+msgid "Choose a date"
+msgstr ""
+
+#: ../inc/admin/metabox-sections/comingsoon.php:68
+msgid "Title From"
+msgstr ""
+
+#: ../inc/admin/metabox-sections/comingsoon.php:71
+msgid "Register now and be among the first to know more."
+msgstr ""
+
+#: ../inc/admin/metabox-sections/comingsoon.php:75
+msgid "ShortCode Form"
+msgstr ""
+
+#: ../inc/admin/metabox-sections/event.php:3
+msgid "Event Options"
+msgstr ""
+
+#: ../inc/admin/metabox-sections/event.php:9
+msgid "Use Page Event"
+msgstr ""
+
+#: ../inc/admin/metabox-sections/event.php:16
+msgid "Desc"
+msgstr ""
+
+#: ../inc/admin/metabox-sections/event.php:23
+msgid "Start Date"
+msgstr ""
+
+#: ../inc/admin/metabox-sections/event.php:31
+msgid "End Date"
+msgstr ""
+
+#: ../inc/admin/metabox-sections/onepage.php:3
+msgid "Select Menu One Page"
+msgstr ""
+
+#: ../inc/admin/metabox-sections/onepage.php:13
+msgid "Select Menu"
+msgstr ""
+
+#: ../inc/admin/plugins-require.php:211
+#: ../inc/libs/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../inc/admin/plugins-require.php:212
+#: ../inc/libs/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: ../inc/admin/plugins-require.php:213
+#: ../inc/libs/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../inc/admin/plugins-require.php:215
+#: ../inc/libs/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../inc/admin/plugins-require.php:216
+#: ../inc/libs/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgstr ""
+
+#: ../inc/admin/plugins-require.php:218
+#: ../inc/libs/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgstr ""
+
+#: ../inc/admin/plugins-require.php:220
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgstr ""
+
+#: ../inc/admin/plugins-require.php:222
+#: ../inc/libs/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgstr ""
+
+#: ../inc/admin/plugins-require.php:224
+#: ../inc/libs/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgstr ""
+
+#: ../inc/admin/plugins-require.php:226
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugin. Contact the administrator of this site for help on getting the "
+"plugin activated."
+msgstr ""
+
+#: ../inc/admin/plugins-require.php:228
+#: ../inc/libs/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr ""
+
+#: ../inc/admin/plugins-require.php:230
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgstr ""
+
+#: ../inc/admin/plugins-require.php:232
+#: ../inc/libs/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgstr ""
+
+#: ../inc/admin/plugins-require.php:233
+msgid "Activate installed plugin"
+msgstr ""
+
+#: ../inc/admin/plugins-require.php:234
+#: ../inc/libs/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../inc/admin/plugins-require.php:235
+#: ../inc/libs/class-tgm-plugin-activation.php:394
+#: ../inc/libs/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../inc/admin/plugins-require.php:236
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../inc/custom-functions.php:71
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../inc/custom-functions.php:79 ../inc/template-tags.php:209
+msgid "Edit"
+msgstr ""
+
+#: ../inc/custom-functions.php:160
+msgid "No Padding Content"
+msgstr ""
+
+#: ../inc/custom-functions.php:310
+msgid "Name"
+msgstr ""
+
+#: ../inc/custom-functions.php:311
+msgid "Email"
+msgstr ""
+
+#: ../inc/custom-functions.php:312
+msgid "Website"
+msgstr ""
+
+#: ../inc/header/main-menu-header-2.php:30
+msgid "Menu"
+msgstr ""
+
+#: ../inc/libs/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: ../inc/libs/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgstr ""
+
+#: ../inc/libs/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgstr ""
+
+#: ../inc/libs/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgstr ""
+
+#: ../inc/libs/class-tgm-plugin-activation.php:393
+#: ../inc/libs/class-tgm-plugin-activation.php:912
+#: ../inc/libs/class-tgm-plugin-activation.php:2618
+#: ../inc/libs/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../inc/libs/class-tgm-plugin-activation.php:395
+#: ../inc/libs/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../inc/libs/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../inc/libs/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: ../inc/libs/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../inc/libs/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../inc/libs/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: ../inc/libs/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../inc/libs/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: ../inc/libs/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: ../inc/libs/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: ../inc/libs/class-tgm-plugin-activation.php:1019
+#: ../inc/libs/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: ../inc/libs/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: ../inc/libs/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../inc/libs/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: ../inc/libs/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: ../inc/libs/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../inc/libs/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: ../inc/libs/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../inc/libs/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: ../inc/libs/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../inc/libs/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: ../inc/libs/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../inc/libs/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: ../inc/libs/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: ../inc/libs/class-tgm-plugin-activation.php:2473
+#, php-format
+msgid "All <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../inc/libs/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../inc/libs/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../inc/libs/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: ../inc/libs/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: ../inc/libs/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../inc/libs/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: ../inc/libs/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: ../inc/libs/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: ../inc/libs/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: ../inc/libs/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: ../inc/libs/class-tgm-plugin-activation.php:2638
+#: ../inc/widgets/social/social.php:25
+msgid "Version"
+msgstr ""
+
+#: ../inc/libs/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#: ../inc/libs/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: ../inc/libs/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: ../inc/libs/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../inc/libs/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: ../inc/libs/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: ../inc/libs/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: ../inc/libs/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: ../inc/libs/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../inc/libs/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../inc/libs/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../inc/libs/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../inc/libs/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: ../inc/libs/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../inc/libs/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../inc/libs/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../inc/libs/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../inc/libs/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../inc/libs/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../inc/libs/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../inc/libs/class-tgm-plugin-activation.php:3594
+#: ../inc/libs/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: ../inc/libs/class-tgm-plugin-activation.php:3594
+#: ../inc/libs/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: ../inc/libs/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../inc/libs/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../inc/libs/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../inc/libs/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../inc/libs/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../inc/libs/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../inc/libs/tax-meta-class/Tax-meta-class.php:241
+msgid "Delete this image"
+msgstr ""
+
+#: ../inc/libs/tax-meta-class/Tax-meta-class.php:241
+#: ../inc/libs/tax-meta-class/Tax-meta-class.php:887
+msgid "Delete"
+msgstr ""
+
+#: ../inc/libs/tax-meta-class/Tax-meta-class.php:351
+msgid "Cannot delete file. Something's wrong."
+msgstr ""
+
+#: ../inc/libs/tax-meta-class/Tax-meta-class.php:574
+#: ../inc/libs/tax-meta-class/Tax-meta-class.php:621
+msgid "Remove"
+msgstr ""
+
+#: ../inc/libs/tax-meta-class/Tax-meta-class.php:586
+msgid "Add"
+msgstr ""
+
+#: ../inc/libs/tax-meta-class/Tax-meta-class.php:883
+msgid "Uploaded files"
+msgstr ""
+
+#: ../inc/libs/tax-meta-class/Tax-meta-class.php:894
+msgid "Upload new files"
+msgstr ""
+
+#: ../inc/libs/tax-meta-class/Tax-meta-class.php:900
+msgid "Add more files"
+msgstr ""
+
+#: ../inc/libs/tax-meta-class/Tax-meta-class.php:955
+msgid "Select a color"
+msgstr ""
+
+#: ../inc/tax-meta.php:36
+msgid "Custom Layout "
+msgstr ""
+
+#: ../inc/tax-meta.php:41
+msgid "Custom Heading "
+msgstr ""
+
+#: ../inc/tax-meta.php:43
+msgid "Background images Heading"
+msgstr ""
+
+#: ../inc/tax-meta.php:44
+msgid "Background Color Heading"
+msgstr ""
+
+#: ../inc/template-tags.php:42 ../woocommerce/loop/pagination.php:36
+msgid "Prev"
+msgstr ""
+
+#: ../inc/template-tags.php:43 ../woocommerce/loop/pagination.php:37
+msgid "Next"
+msgstr ""
+
+#: ../inc/template-tags.php:75
+msgid "Post navigation"
+msgstr ""
+
+#: ../inc/template-tags.php:113
+msgid "Post by"
+msgstr ""
+
+#: ../inc/template-tags.php:127 ../inc/template-tags.php:131
+msgid "on"
+msgstr ""
+
+#: ../inc/template-tags.php:144
+msgid "0 comment"
+msgstr ""
+
+#: ../inc/template-tags.php:144
+msgid "1 comment"
+msgstr ""
+
+#: ../inc/template-tags.php:144
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: ../inc/template-tags.php:191 ../inc/template-tags.php:197
+msgid ", "
+msgstr ""
+
+#: ../inc/template-tags.php:193
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: ../inc/template-tags.php:199
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: ../inc/template-tags.php:205
+msgid "Leave a comment"
+msgstr ""
+
+#: ../inc/template-tags.php:205
+msgid "% Comments"
+msgstr ""
+
+#: ../inc/template-tags.php:227 ../inc/template-tags.php:229
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../inc/template-tags.php:231
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: ../inc/template-tags.php:233
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: ../inc/template-tags.php:235
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: ../inc/template-tags.php:237
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: ../inc/template-tags.php:257
+#, php-format
+msgid "Archives: %s"
+msgstr ""
+
+#: ../inc/template-tags.php:261
+#, php-format
+msgid "%1$s: %2$s"
+msgstr ""
+
+#: ../inc/template-tags.php:263 ../search.php:15
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../inc/template-tags.php:265
+msgid "Archives"
+msgstr ""
+
+#: ../inc/templates/heading-top.php:160
+msgid "Portfolio"
+msgstr ""
+
+#: ../inc/widgets/counters-box/counters-box.php:8
+msgid "Thim: Counters Box"
+msgstr ""
+
+#: ../inc/widgets/counters-box/counters-box.php:10
+msgid "Counters Box"
+msgstr ""
+
+#: ../inc/widgets/counters-box/counters-box.php:19
+msgid "Counters label"
+msgstr ""
+
+#: ../inc/widgets/counters-box/counters-box.php:24
+msgid "Counters Value"
+msgstr ""
+
+#: ../inc/widgets/counters-box/counters-box.php:34
+msgid "Border Color Icon"
+msgstr ""
+
+#: ../inc/widgets/counters-box/counters-box.php:39
+msgid "Counters Box Icon"
+msgstr ""
+
+#: ../inc/widgets/counters-box/counters-box.php:45
+#: ../inc/widgets/gallery-images/gallery-images.php:52
+#: ../inc/widgets/heading/heading.php:113
+#: ../inc/widgets/icon-box/icon-box.php:520
+#: ../inc/widgets/single-images/single-images.php:56
+msgid "CSS Animation"
+msgstr ""
+
+#: ../inc/widgets/counters-box/counters-box.php:48
+#: ../inc/widgets/gallery-images/gallery-images.php:55
+#: ../inc/widgets/heading/heading.php:116
+#: ../inc/widgets/icon-box/icon-box.php:523
+#: ../inc/widgets/single-images/single-images.php:59
+msgid "Top to bottom"
+msgstr ""
+
+#: ../inc/widgets/counters-box/counters-box.php:49
+#: ../inc/widgets/gallery-images/gallery-images.php:56
+#: ../inc/widgets/heading/heading.php:117
+#: ../inc/widgets/icon-box/icon-box.php:524
+#: ../inc/widgets/single-images/single-images.php:60
+msgid "Bottom to top"
+msgstr ""
+
+#: ../inc/widgets/counters-box/counters-box.php:50
+#: ../inc/widgets/gallery-images/gallery-images.php:57
+#: ../inc/widgets/heading/heading.php:118
+#: ../inc/widgets/icon-box/icon-box.php:525
+#: ../inc/widgets/single-images/single-images.php:61
+msgid "Left to right"
+msgstr ""
+
+#: ../inc/widgets/counters-box/counters-box.php:51
+#: ../inc/widgets/gallery-images/gallery-images.php:58
+#: ../inc/widgets/heading/heading.php:119
+#: ../inc/widgets/icon-box/icon-box.php:526
+#: ../inc/widgets/single-images/single-images.php:62
+msgid "Right to left"
+msgstr ""
+
+#: ../inc/widgets/counters-box/counters-box.php:52
+#: ../inc/widgets/gallery-images/gallery-images.php:59
+#: ../inc/widgets/heading/heading.php:120
+#: ../inc/widgets/icon-box/icon-box.php:527
+#: ../inc/widgets/single-images/single-images.php:63
+msgid "Appear from center"
+msgstr ""
+
+#: ../inc/widgets/empty-space/empty-space.php:8
+msgid "Thim: Empty Space"
+msgstr ""
+
+#: ../inc/widgets/empty-space/empty-space.php:10
+msgid "Add space width custom height"
+msgstr ""
+
+#: ../inc/widgets/empty-space/empty-space.php:18
+#: ../inc/widgets/google-map/google-map.php:75
+msgid "Height"
+msgstr ""
+
+#: ../inc/widgets/empty-space/empty-space.php:20
+msgid "Enter empty space height."
+msgstr ""
+
+#: ../inc/widgets/feature/feature.php:8
+msgid "Thim: Feature"
+msgstr ""
+
+#: ../inc/widgets/feature/feature.php:10
+msgid "Add Feature html"
+msgstr ""
+
+#: ../inc/widgets/feature/feature.php:18 ../inc/widgets/feature/feature.php:19
+#: ../inc/widgets/list-html/list-html.php:18
+#: ../inc/widgets/list-html/list-html.php:19
+msgid "Text"
+msgstr ""
+
+#: ../inc/widgets/feature/feature.php:23
+#: ../inc/widgets/google-map/google-map.php:17
+#: ../inc/widgets/icon-box/icon-box.php:22
+#: ../inc/widgets/list-html/list-html.php:23
+#: ../inc/widgets/list-post/list-post.php:30
+#: ../inc/widgets/list-post/list-post.php:65
+#: ../inc/widgets/mini-cart-room/mini-cart-room.php:18
+#: ../inc/widgets/search-room/search-room.php:18
+#: ../inc/widgets/social/social.php:20 ../inc/widgets/video/video.php:18
+msgid "Title"
+msgstr ""
+
+#: ../inc/widgets/feature/feature.php:28
+#: ../inc/widgets/list-html/list-html.php:28
+msgid "Content"
+msgstr ""
+
+#: ../inc/widgets/gallery-images/gallery-images.php:9
+msgid "Thim: Gallery Images"
+msgstr ""
+
+#: ../inc/widgets/gallery-images/gallery-images.php:11
+msgid "Add gallery image"
+msgstr ""
+
+#: ../inc/widgets/gallery-images/gallery-images.php:20
+#: ../inc/widgets/single-images/single-images.php:19
+msgid "Select image from media library."
+msgstr ""
+
+#: ../inc/widgets/gallery-images/gallery-images.php:25
+#: ../inc/widgets/single-images/single-images.php:24
+msgid "Image size"
+msgstr ""
+
+#: ../inc/widgets/gallery-images/gallery-images.php:26
+msgid ""
+"Enter image size. Example: \"thumbnail\", \"medium\", \"large\", \"full\""
+msgstr ""
+
+#: ../inc/widgets/gallery-images/gallery-images.php:30
+#: ../inc/widgets/single-images/single-images.php:29
+msgid "Image Link"
+msgstr ""
+
+#: ../inc/widgets/gallery-images/gallery-images.php:31
+msgid ""
+"Enter URL if you want this image to have a link. These links are separated "
+"by comma (Ex: #,#,#,#)"
+msgstr ""
+
+#: ../inc/widgets/gallery-images/gallery-images.php:35
+#: ../inc/widgets/single-images/single-images.php:34
+#: ../inc/widgets/social/social.php:160
+msgid "Link Target"
+msgstr ""
+
+#: ../inc/widgets/gallery-images/gallery-images.php:37
+#: ../inc/widgets/single-images/single-images.php:36
+#: ../inc/widgets/social/social.php:162
+msgid "Same window"
+msgstr ""
+
+#: ../inc/widgets/gallery-images/gallery-images.php:38
+#: ../inc/widgets/single-images/single-images.php:37
+#: ../inc/widgets/social/social.php:163
+msgid "New window"
+msgstr ""
+
+#: ../inc/widgets/gallery-images/gallery-images.php:43
+msgid "Gallery Layout"
+msgstr ""
+
+#: ../inc/widgets/gallery-images/gallery-images.php:46
+msgid "Slider"
+msgstr ""
+
+#: ../inc/widgets/gallery/gallery.php:14
+msgid "Thim: Filter Gallery "
+msgstr ""
+
+#: ../inc/widgets/gallery/gallery.php:16
+msgid "gallery"
+msgstr ""
+
+#: ../inc/widgets/gallery/gallery.php:24
+msgid "Select Category"
+msgstr ""
+
+#: ../inc/widgets/gallery/gallery.php:30
+msgid "Limit Post"
+msgstr ""
+
+#: ../inc/widgets/gallery/tpl/base.php:13
+#: ../woocommerce/archive-product.php:63
+msgid "All"
+msgstr ""
+
+#: ../inc/widgets/google-map/google-map.php:7
+msgid "Thim: Google Maps"
+msgstr ""
+
+#: ../inc/widgets/google-map/google-map.php:9
+msgid "A Google Maps widget."
+msgstr ""
+
+#: ../inc/widgets/google-map/google-map.php:21
+msgid "Get Map By"
+msgstr ""
+
+#: ../inc/widgets/google-map/google-map.php:23
+msgid "Address"
+msgstr ""
+
+#: ../inc/widgets/google-map/google-map.php:24
+#: ../inc/widgets/google-map/google-map.php:34
+msgid "Coordinates"
+msgstr ""
+
+#: ../inc/widgets/google-map/google-map.php:44
+msgid "Lat"
+msgstr ""
+
+#: ../inc/widgets/google-map/google-map.php:49
+msgid "Lng"
+msgstr ""
+
+#: ../inc/widgets/google-map/google-map.php:58
+msgid "Map center"
+msgstr ""
+
+#: ../inc/widgets/google-map/google-map.php:59
+msgid ""
+"The name of a place, town, city, or even a country. Can be an exact address "
+"too."
+msgstr ""
+
+#: ../inc/widgets/google-map/google-map.php:68
+msgid "Settings"
+msgstr ""
+
+#: ../inc/widgets/google-map/google-map.php:70
+msgid "Set map display options."
+msgstr ""
+
+#: ../inc/widgets/google-map/google-map.php:79
+msgid "Zoom level"
+msgstr ""
+
+#: ../inc/widgets/google-map/google-map.php:80
+msgid "A value from 0 (the world) to 21 (street level)."
+msgstr ""
+
+#: ../inc/widgets/google-map/google-map.php:91
+msgid "Scroll to zoom"
+msgstr ""
+
+#: ../inc/widgets/google-map/google-map.php:92
+msgid "Allow scrolling over the map to zoom in or out."
+msgstr ""
+
+#: ../inc/widgets/google-map/google-map.php:98
+msgid "Draggable"
+msgstr ""
+
+#: ../inc/widgets/google-map/google-map.php:99
+msgid "Allow dragging the map to move it around."
+msgstr ""
+
+#: ../inc/widgets/google-map/google-map.php:105
+msgid "Markers"
+msgstr ""
+
+#: ../inc/widgets/google-map/google-map.php:107
+msgid "Use markers to identify points of interest on the map."
+msgstr ""
+
+#: ../inc/widgets/google-map/google-map.php:112
+msgid "Show marker at map center"
+msgstr ""
+
+#: ../inc/widgets/google-map/google-map.php:117
+msgid "Marker Icon"
+msgstr ""
+
+#: ../inc/widgets/google-map/google-map.php:118
+msgid "Replaces the default map marker with your own image."
+msgstr ""
+
+#: ../inc/widgets/google-map/google-map.php:122
+msgid "Marker positions"
+msgstr ""
+
+#: ../inc/widgets/google-map/google-map.php:123
+msgid "Marker"
+msgstr ""
+
+#: ../inc/widgets/google-map/google-map.php:128
+msgid "Place"
+msgstr ""
+
+#: ../inc/widgets/heading/heading.php:6
+msgid "Thim: Heading"
+msgstr ""
+
+#: ../inc/widgets/heading/heading.php:8
+#: ../inc/widgets/single-images/single-images.php:10
+msgid "Add heading text"
+msgstr ""
+
+#: ../inc/widgets/heading/heading.php:17
+#: ../inc/widgets/testimonials/testimonials.php:23
+msgid "Heading Text"
+msgstr ""
+
+#: ../inc/widgets/heading/heading.php:18
+msgid "Default value"
+msgstr ""
+
+#: ../inc/widgets/heading/heading.php:22
+#: ../inc/widgets/icon-box/icon-box.php:104
+msgid "Show Separator"
+msgstr ""
+
+#: ../inc/widgets/heading/heading.php:26
+msgid "Text Heading color"
+msgstr ""
+
+#: ../inc/widgets/heading/heading.php:31
+#: ../inc/widgets/icon-box/icon-box.php:33
+msgid "Size Heading"
+msgstr ""
+
+#: ../inc/widgets/heading/heading.php:33
+#: ../inc/widgets/icon-box/icon-box.php:36
+msgid "h2"
+msgstr ""
+
+#: ../inc/widgets/heading/heading.php:34
+#: ../inc/widgets/icon-box/icon-box.php:37
+msgid "h3"
+msgstr ""
+
+#: ../inc/widgets/heading/heading.php:35
+#: ../inc/widgets/icon-box/icon-box.php:38
+msgid "h4"
+msgstr ""
+
+#: ../inc/widgets/heading/heading.php:36
+#: ../inc/widgets/icon-box/icon-box.php:39
+msgid "h5"
+msgstr ""
+
+#: ../inc/widgets/heading/heading.php:37
+#: ../inc/widgets/icon-box/icon-box.php:40
+msgid "h6"
+msgstr ""
+
+#: ../inc/widgets/heading/heading.php:43
+#: ../inc/widgets/icon-box/icon-box.php:46
+msgid "Font Heading"
+msgstr ""
+
+#: ../inc/widgets/heading/heading.php:47
+#: ../inc/widgets/icon-box/icon-box.php:49
+msgid "Custom"
+msgstr ""
+
+#: ../inc/widgets/heading/heading.php:49
+#: ../inc/widgets/icon-box/icon-box.php:51
+msgid "Select Font heading."
+msgstr ""
+
+#: ../inc/widgets/heading/heading.php:57
+msgid "Custom Font Heading"
+msgstr ""
+
+#: ../inc/widgets/heading/heading.php:69
+#: ../inc/widgets/icon-box/icon-box.php:71
+#: ../inc/widgets/icon-box/icon-box.php:125
+msgid "custom font size"
+msgstr ""
+
+#: ../inc/widgets/heading/heading.php:74
+#: ../inc/widgets/icon-box/icon-box.php:76
+#: ../inc/widgets/icon-box/icon-box.php:130
+msgid "Custom Font Weight"
+msgstr ""
+
+#: ../inc/widgets/heading/heading.php:76
+#: ../inc/widgets/icon-box/icon-box.php:79
+#: ../inc/widgets/icon-box/icon-box.php:133
+msgid "Normal"
+msgstr ""
+
+#: ../inc/widgets/heading/heading.php:77
+#: ../inc/widgets/icon-box/icon-box.php:80
+#: ../inc/widgets/icon-box/icon-box.php:134
+msgid "Bold"
+msgstr ""
+
+#: ../inc/widgets/heading/heading.php:78
+#: ../inc/widgets/icon-box/icon-box.php:81
+#: ../inc/widgets/icon-box/icon-box.php:135
+msgid "100"
+msgstr ""
+
+#: ../inc/widgets/heading/heading.php:79
+#: ../inc/widgets/icon-box/icon-box.php:82
+#: ../inc/widgets/icon-box/icon-box.php:136
+msgid "200"
+msgstr ""
+
+#: ../inc/widgets/heading/heading.php:80
+#: ../inc/widgets/icon-box/icon-box.php:83
+#: ../inc/widgets/icon-box/icon-box.php:137
+msgid "300"
+msgstr ""
+
+#: ../inc/widgets/heading/heading.php:81
+#: ../inc/widgets/icon-box/icon-box.php:84
+#: ../inc/widgets/icon-box/icon-box.php:138
+msgid "400"
+msgstr ""
+
+#: ../inc/widgets/heading/heading.php:82
+#: ../inc/widgets/icon-box/icon-box.php:85
+#: ../inc/widgets/icon-box/icon-box.php:139
+msgid "500"
+msgstr ""
+
+#: ../inc/widgets/heading/heading.php:83
+#: ../inc/widgets/icon-box/icon-box.php:86
+#: ../inc/widgets/icon-box/icon-box.php:140
+msgid "600"
+msgstr ""
+
+#: ../inc/widgets/heading/heading.php:84
+#: ../inc/widgets/icon-box/icon-box.php:87
+#: ../inc/widgets/icon-box/icon-box.php:141
+msgid "700"
+msgstr ""
+
+#: ../inc/widgets/heading/heading.php:85
+#: ../inc/widgets/icon-box/icon-box.php:88
+#: ../inc/widgets/icon-box/icon-box.php:142
+msgid "800"
+msgstr ""
+
+#: ../inc/widgets/heading/heading.php:86
+#: ../inc/widgets/icon-box/icon-box.php:89
+#: ../inc/widgets/icon-box/icon-box.php:143
+msgid "900"
+msgstr ""
+
+#: ../inc/widgets/heading/heading.php:88
+#: ../inc/widgets/icon-box/icon-box.php:91
+#: ../inc/widgets/icon-box/icon-box.php:145
+msgid "Select Custom Font Weight"
+msgstr ""
+
+#: ../inc/widgets/heading/heading.php:93
+msgid "Custom Font Style"
+msgstr ""
+
+#: ../inc/widgets/heading/heading.php:95
+msgid "inherit"
+msgstr ""
+
+#: ../inc/widgets/heading/heading.php:96
+msgid "initial"
+msgstr ""
+
+#: ../inc/widgets/heading/heading.php:97
+msgid "italic"
+msgstr ""
+
+#: ../inc/widgets/heading/heading.php:98
+msgid "normal"
+msgstr ""
+
+#: ../inc/widgets/heading/heading.php:99
+msgid "oblique"
+msgstr ""
+
+#: ../inc/widgets/heading/heading.php:101
+msgid "Select Custom Font Style"
+msgstr ""
+
+#: ../inc/widgets/heading/heading.php:108
+msgid "Sub Heading"
+msgstr ""
+
+#: ../inc/widgets/icon-box/icon-box.php:7
+msgid "Thim: Icon Box"
+msgstr ""
+
+#: ../inc/widgets/icon-box/icon-box.php:9
+msgid "Add icon box"
+msgstr ""
+
+#: ../inc/widgets/icon-box/icon-box.php:17
+msgid "Title Options"
+msgstr ""
+
+#: ../inc/widgets/icon-box/icon-box.php:24
+msgid "Provide the title for this icon box."
+msgstr ""
+
+#: ../inc/widgets/icon-box/icon-box.php:29
+msgid "Color Title"
+msgstr ""
+
+#: ../inc/widgets/icon-box/icon-box.php:42
+msgid "Select size heading."
+msgstr ""
+
+#: ../inc/widgets/icon-box/icon-box.php:59
+msgid "Custom Heading Option"
+msgstr ""
+
+#: ../inc/widgets/icon-box/icon-box.php:96
+msgid "Margin Bottom Value"
+msgstr ""
+
+#: ../inc/widgets/icon-box/icon-box.php:110 ../inc/widgets/video/video.php:22
+#: ../tp-hotel-booking/single-room/details.php:17
+msgid "Description"
+msgstr ""
+
+#: ../inc/widgets/icon-box/icon-box.php:115
+msgid "Add description"
+msgstr ""
+
+#: ../inc/widgets/icon-box/icon-box.php:117
+msgid "Provide the description for this icon box."
+msgstr ""
+
+#: ../inc/widgets/icon-box/icon-box.php:122
+msgid "Custom Font Size"
+msgstr ""
+
+#: ../inc/widgets/icon-box/icon-box.php:149
+msgid "Color Description"
+msgstr ""
+
+#: ../inc/widgets/icon-box/icon-box.php:156
+msgid "Link Icon Box"
+msgstr ""
+
+#: ../inc/widgets/icon-box/icon-box.php:162
+msgid "Add Link"
+msgstr ""
+
+#: ../inc/widgets/icon-box/icon-box.php:163
+msgid "Provide the link that will be applied to this icon box."
+msgstr ""
+
+#: ../inc/widgets/icon-box/icon-box.php:168
+msgid "Apply link to:"
+msgstr ""
+
+#: ../inc/widgets/icon-box/icon-box.php:174
+msgid "Select whether to use color for icon or not."
+msgstr ""
+
+#: ../inc/widgets/icon-box/icon-box.php:183
+msgid "Option Button Read More"
+msgstr ""
+
+#: ../inc/widgets/icon-box/icon-box.php:193
+msgid "Read More Text"
+msgstr ""
+
+#: ../inc/widgets/icon-box/icon-box.php:195
+msgid "Customize the read more text."
+msgstr ""
+
+#: ../inc/widgets/icon-box/icon-box.php:200
+msgid "Text Color Read More"
+msgstr ""
+
+#: ../inc/widgets/icon-box/icon-box.php:201
+#: ../inc/widgets/icon-box/icon-box.php:221
+msgid "Select whether to use text color for Read More Text or default."
+msgstr ""
+
+#: ../inc/widgets/icon-box/icon-box.php:206
+msgid "Border Color Read More Text:"
+msgstr ""
+
+#: ../inc/widgets/icon-box/icon-box.php:207
+msgid "Select whether to use border color for Read More Text or none."
+msgstr ""
+
+#: ../inc/widgets/icon-box/icon-box.php:213
+msgid "Background Color Read More Text:"
+msgstr ""
+
+#: ../inc/widgets/icon-box/icon-box.php:214
+msgid "Select whether to use background color for Read More Text or default."
+msgstr ""
+
+#: ../inc/widgets/icon-box/icon-box.php:220
+msgid "Text Hover Color Read More"
+msgstr ""
+
+#: ../inc/widgets/icon-box/icon-box.php:227
+msgid "Background Hover Color Read More Text:"
+msgstr ""
+
+#: ../inc/widgets/icon-box/icon-box.php:228
+msgid ""
+"Select whether to use background color when hover Read More Text or default."
+msgstr ""
+
+#: ../inc/widgets/icon-box/icon-box.php:240
+msgid "Icon to display:"
+msgstr ""
+
+#: ../inc/widgets/icon-box/icon-box.php:254
+msgid "Font 7 Stroke Icon"
+msgstr ""
+
+#: ../inc/widgets/icon-box/icon-box.php:265
+#: ../inc/widgets/icon-box/icon-box.php:294
+msgid "Select Icon:"
+msgstr ""
+
+#: ../inc/widgets/icon-box/icon-box.php:266
+#: ../inc/widgets/icon-box/icon-box.php:295
+msgid "Select the icon from the list."
+msgstr ""
+
+#: ../inc/widgets/icon-box/icon-box.php:273
+#: ../inc/widgets/icon-box/icon-box.php:302
+msgid "Icon Font Size "
+msgstr ""
+
+#: ../inc/widgets/icon-box/icon-box.php:276
+#: ../inc/widgets/icon-box/icon-box.php:305
+msgid "Select the icon font size."
+msgstr ""
+
+#: ../inc/widgets/icon-box/icon-box.php:283
+msgid "Font Awesome Icon"
+msgstr ""
+
+#: ../inc/widgets/icon-box/icon-box.php:312
+msgid "Custom Image Icon"
+msgstr ""
+
+#: ../inc/widgets/icon-box/icon-box.php:323
+msgid "Upload Image Icon:"
+msgstr ""
+
+#: ../inc/widgets/icon-box/icon-box.php:324
+msgid "Upload the custom image icon."
+msgstr ""
+
+#: ../inc/widgets/icon-box/icon-box.php:334
+msgid "Width Box Icon"
+msgstr ""
+
+#: ../inc/widgets/icon-box/icon-box.php:339
+msgid "Color Options"
+msgstr ""
+
+#: ../inc/widgets/icon-box/icon-box.php:346
+msgid "Select Icon Color:"
+msgstr ""
+
+#: ../inc/widgets/icon-box/icon-box.php:347
+msgid "Select the icon color."
+msgstr ""
+
+#: ../inc/widgets/icon-box/icon-box.php:351
+msgid "Icon Border Color:"
+msgstr ""
+
+#: ../inc/widgets/icon-box/icon-box.php:352
+msgid "Select the color for icon border."
+msgstr ""
+
+#: ../inc/widgets/icon-box/icon-box.php:357
+msgid "Icon Background Color:"
+msgstr ""
+
+#: ../inc/widgets/icon-box/icon-box.php:358
+msgid "Select the color for icon background."
+msgstr ""
+
+#: ../inc/widgets/icon-box/icon-box.php:363
+msgid "Hover Icon Color:"
+msgstr ""
+
+#: ../inc/widgets/icon-box/icon-box.php:364
+msgid "Select the color hover for icon."
+msgstr ""
+
+#: ../inc/widgets/icon-box/icon-box.php:369
+msgid "Hover Icon Border Color:"
+msgstr ""
+
+#: ../inc/widgets/icon-box/icon-box.php:370
+msgid "Select the color hover for icon border."
+msgstr ""
+
+#: ../inc/widgets/icon-box/icon-box.php:376
+msgid "Hover Icon Background Color:"
+msgstr ""
+
+#: ../inc/widgets/icon-box/icon-box.php:377
+msgid "Select the color hover for icon background ."
+msgstr ""
+
+#: ../inc/widgets/icon-box/icon-box.php:384
+msgid "Layout Options"
+msgstr ""
+
+#: ../inc/widgets/icon-box/icon-box.php:390
+msgid "Icon Shape"
+msgstr ""
+
+#: ../inc/widgets/icon-box/icon-box.php:392
+msgid "None"
+msgstr ""
+
+#: ../inc/widgets/icon-box/icon-box.php:393
+msgid "Circle"
+msgstr ""
+
+#: ../inc/widgets/icon-box/icon-box.php:400
+msgid "Box Style:"
+msgstr ""
+
+#: ../inc/widgets/icon-box/icon-box.php:407
+msgid ""
+"Select icon position. Icon box style will be changed according to the icon "
+"position."
+msgstr ""
+
+#: ../inc/widgets/icon-box/icon-box.php:412
+msgid "Text Align Shortcode:"
+msgstr ""
+
+#: ../inc/widgets/icon-box/icon-box.php:421
+msgid "Type Icon Box"
+msgstr ""
+
+#: ../inc/widgets/icon-box/icon-box.php:424
+msgid "Box Shadow Image"
+msgstr ""
+
+#: ../inc/widgets/icon-box/icon-box.php:432
+msgid "Widget Background"
+msgstr ""
+
+#: ../inc/widgets/icon-box/icon-box.php:446
+msgid "Select video"
+msgstr ""
+
+#: ../inc/widgets/icon-box/icon-box.php:457 ../inc/widgets/video/video.php:26
+msgid "Select cover image"
+msgstr ""
+
+#: ../inc/widgets/icon-box/icon-box.php:468
+msgid "Video Background Options"
+msgstr ""
+
+#: ../inc/widgets/icon-box/icon-box.php:478
+msgid "Auto Play"
+msgstr ""
+
+#: ../inc/widgets/icon-box/icon-box.php:488
+msgid "Auto Hidden"
+msgstr ""
+
+#: ../inc/widgets/icon-box/icon-box.php:491
+#: ../inc/widgets/list-post/list-post.php:51
+msgid "Yes"
+msgstr ""
+
+#: ../inc/widgets/icon-box/icon-box.php:498
+msgid "Muted"
+msgstr ""
+
+#: ../inc/widgets/icon-box/icon-box.php:508
+msgid "Loop"
+msgstr ""
+
+#: ../inc/widgets/list-html/list-html.php:8
+msgid "Thim: List Html Two Columns"
+msgstr ""
+
+#: ../inc/widgets/list-html/list-html.php:10
+msgid "Add html"
+msgstr ""
+
+#: ../inc/widgets/list-post/list-post.php:7
+msgid "No Image"
+msgstr ""
+
+#: ../inc/widgets/list-post/list-post.php:19
+msgid "Thim: Display Posts"
+msgstr ""
+
+#: ../inc/widgets/list-post/list-post.php:21
+msgid "Show Post"
+msgstr ""
+
+#: ../inc/widgets/list-post/list-post.php:31
+msgid "From Blog"
+msgstr ""
+
+#: ../inc/widgets/list-post/list-post.php:35
+msgid "Select Categories"
+msgstr ""
+
+#: ../inc/widgets/list-post/list-post.php:41
+msgid "Select Image Size"
+msgstr ""
+
+#: ../inc/widgets/list-post/list-post.php:47
+msgid "Show Description"
+msgstr ""
+
+#: ../inc/widgets/list-post/list-post.php:56
+msgid "Number Post"
+msgstr ""
+
+#: ../inc/widgets/list-post/list-post.php:61
+#: ../inc/widgets/list-post/list-post.php:71
+msgid "Order by"
+msgstr ""
+
+#: ../inc/widgets/list-post/list-post.php:63
+msgid "Popular"
+msgstr ""
+
+#: ../inc/widgets/list-post/list-post.php:64
+msgid "Recent"
+msgstr ""
+
+#: ../inc/widgets/list-post/list-post.php:66
+msgid "Random"
+msgstr ""
+
+#: ../inc/widgets/list-post/list-post.php:73
+msgid "ASC"
+msgstr ""
+
+#: ../inc/widgets/list-post/list-post.php:74
+msgid "DESC"
+msgstr ""
+
+#: ../inc/widgets/list-post/list-post.php:79
+msgid "Link All Post"
+msgstr ""
+
+#: ../inc/widgets/list-post/list-post.php:83
+msgid "Text Link"
+msgstr ""
+
+#: ../inc/widgets/list-post/list-post.php:87
+msgid "Style"
+msgstr ""
+
+#: ../inc/widgets/list-post/list-post.php:89
+msgid "No Style"
+msgstr ""
+
+#: ../inc/widgets/list-post/list-post.php:90
+msgid "Home Page"
+msgstr ""
+
+#: ../inc/widgets/mini-cart-room/mini-cart-room.php:7
+msgid "Thim: Mini Cart Room"
+msgstr ""
+
+#: ../inc/widgets/mini-cart-room/mini-cart-room.php:9
+msgid "Show mini cart room widget"
+msgstr ""
+
+#: ../inc/widgets/mini-cart-room/mini-cart-room.php:19
+msgid "Your Book"
+msgstr ""
+
+#: ../inc/widgets/search-room/search-room.php:7
+msgid "Thim: Search Room"
+msgstr ""
+
+#: ../inc/widgets/search-room/search-room.php:9
+msgid "Show search room widget"
+msgstr ""
+
+#: ../inc/widgets/search-room/search-room.php:19
+msgid "Your Reservation"
+msgstr ""
+
+#: ../inc/widgets/search-room/search-room.php:23
+msgid "Show Label Input"
+msgstr ""
+
+#: ../inc/widgets/search-room/search-room.php:32
+msgid "Background Image"
+msgstr ""
+
+#: ../inc/widgets/search-room/search-room.php:33
+msgid "Select background image for widget"
+msgstr ""
+
+#: ../inc/widgets/single-images/single-images.php:8
+msgid "Thim: Single Images"
+msgstr ""
+
+#: ../inc/widgets/single-images/single-images.php:25
+msgid ""
+"Enter image size. Example: \"thumbnail\", \"medium\", \"large\", \"full\" or "
+"other sizes defined by current theme. Alternatively enter image size in "
+"pixels: 200x100 (Width x Height). Leave empty to use \"thumbnail\" size."
+msgstr ""
+
+#: ../inc/widgets/single-images/single-images.php:30
+msgid "Enter URL if you want this image to have a link."
+msgstr ""
+
+#: ../inc/widgets/single-images/single-images.php:42
+msgid "Image alignment"
+msgstr ""
+
+#: ../inc/widgets/single-images/single-images.php:45
+msgid "Align Left"
+msgstr ""
+
+#: ../inc/widgets/single-images/single-images.php:46
+msgid "Align Right"
+msgstr ""
+
+#: ../inc/widgets/single-images/single-images.php:47
+msgid "Align Center"
+msgstr ""
+
+#: ../inc/widgets/single-images/single-images.php:52
+msgid "Images Parallax"
+msgstr ""
+
+#: ../inc/widgets/social/social.php:9
+msgid "Thim: Social Links"
+msgstr ""
+
+#: ../inc/widgets/social/social.php:11
+msgid "Social Links"
+msgstr ""
+
+#: ../inc/widgets/social/social.php:27
+msgid "old"
+msgstr ""
+
+#: ../inc/widgets/social/social.php:28
+msgid "New"
+msgstr ""
+
+#: ../inc/widgets/social/social.php:39
+msgid "Facebook Url"
+msgstr ""
+
+#: ../inc/widgets/social/social.php:48
+msgid "Twitter Url"
+msgstr ""
+
+#: ../inc/widgets/social/social.php:57
+msgid "Google Url"
+msgstr ""
+
+#: ../inc/widgets/social/social.php:66
+msgid "Dribble Url"
+msgstr ""
+
+#: ../inc/widgets/social/social.php:75
+msgid "Linked in Url"
+msgstr ""
+
+#: ../inc/widgets/social/social.php:84
+msgid "Pinterest Url"
+msgstr ""
+
+#: ../inc/widgets/social/social.php:93
+msgid "Digg Url"
+msgstr ""
+
+#: ../inc/widgets/social/social.php:102
+msgid "Youtube Url"
+msgstr ""
+
+#: ../inc/widgets/social/social.php:111
+msgid "Instagram Url"
+msgstr ""
+
+#: ../inc/widgets/social/social.php:120
+msgid "Social List"
+msgstr ""
+
+#: ../inc/widgets/social/social.php:121
+msgid "Social"
+msgstr ""
+
+#: ../inc/widgets/social/social.php:130
+msgid "Social Name"
+msgstr ""
+
+#: ../inc/widgets/social/social.php:132
+msgid "Foursquare"
+msgstr ""
+
+#: ../inc/widgets/social/social.php:133
+msgid "Tripadvisor"
+msgstr ""
+
+#: ../inc/widgets/social/social.php:134
+msgid "Yelp"
+msgstr ""
+
+#: ../inc/widgets/social/social.php:137
+msgid "Instagram"
+msgstr ""
+
+#: ../inc/widgets/social/social.php:140
+msgid "Youtube"
+msgstr ""
+
+#: ../inc/widgets/social/social.php:141
+msgid "Flickr"
+msgstr ""
+
+#: ../inc/widgets/social/social.php:142
+msgid "Digg"
+msgstr ""
+
+#: ../inc/widgets/social/social.php:143
+msgid "Skype"
+msgstr ""
+
+#: ../inc/widgets/social/social.php:144
+msgid "Vimeo"
+msgstr ""
+
+#: ../inc/widgets/social/social.php:145
+msgid "Tumblr"
+msgstr ""
+
+#: ../inc/widgets/social/social.php:146
+msgid "Linkedin"
+msgstr ""
+
+#: ../inc/widgets/social/social.php:147
+msgid "Dribble"
+msgstr ""
+
+#: ../inc/widgets/social/social.php:153
+msgid "Social URL"
+msgstr ""
+
+#: ../inc/widgets/social/social.php:169
+msgid "rel Attribute"
+msgstr ""
+
+#: ../inc/widgets/social/social.php:172
+msgid "nofollow"
+msgstr ""
+
+#: ../inc/widgets/testimonials/testimonials.php:7
+msgid "Thim: Testimonials"
+msgstr ""
+
+#: ../inc/widgets/testimonials/testimonials.php:18
+msgid "Heading"
+msgstr ""
+
+#: ../inc/widgets/testimonials/testimonials.php:24
+msgid "Testimonials"
+msgstr ""
+
+#: ../inc/widgets/testimonials/testimonials.php:32
+msgid "Number Posts"
+msgstr ""
+
+#: ../inc/widgets/video/tpl/default.php:14
+msgid "Watch the video"
+msgstr ""
+
+#: ../inc/widgets/video/video.php:8
+msgid "Thim: Video"
+msgstr ""
+
+#: ../inc/widgets/video/video.php:10
+msgid "A video player widget."
+msgstr ""
+
+#: ../inc/widgets/video/video.php:33
+msgid "Video URL"
+msgstr ""
+
+#: ../inc/widgets/widgets.php:55
+msgid "Extra Class"
+msgstr ""
+
+#: ../tp-hotel-booking/loop/price.php:27
+msgid "Price"
+msgstr ""
+
+#: ../tp-hotel-booking/loop/price.php:42
+msgid "Night"
+msgstr ""
+
+#: ../tp-hotel-booking/loop/pricing_plan.php:23
+msgid "to"
+msgstr ""
+
+#: ../tp-hotel-booking/loop/pricing_plan.php:26
+msgid "Regular plan"
+msgstr ""
+
+#: ../tp-hotel-booking/single-room/details.php:24
+msgid "Additional Information"
+msgstr ""
+
+#: ../tp-hotel-booking/single-room/related-room.php:20
+msgid "Other Rooms"
+msgstr ""
+
+#: ../tp-hotel-booking/single-room/review.php:29
+#: ../woocommerce/single-product/review.php:39
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: ../tp-hotel-booking/single-room/review.php:42
+#: ../woocommerce/single-product/review.php:59
+#, php-format
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: ../woocommerce/content-single-product-lightbox.php:77
+msgid "View Detail"
+msgstr ""
+
+#: ../woocommerce/single-product/rating.php:35
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: ../woocommerce/single-product/rating.php:40
+#, php-format
+msgid "%s customer review"
+msgstr ""
+
+#: ../woocommerce/single-product/related.php:49
+msgid "Related Products"
+msgstr ""
+
+#: ../woocommerce/single-product/review.php:49
+msgid "verified owner"
+msgstr ""
+
+#: ../woocommerce/single-product/tabs/description.php:22
+msgid "Product Description"
+msgstr ""
+
+#: ../woocommerce/single-product/up-sells.php:51
+msgid "You may also like&hellip;"
+msgstr ""
+
+#: ../woocommerce/woocommerce.php:100
+msgid "Share item"
+msgstr ""

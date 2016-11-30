@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- This is a export of the Hotel Booking Tables -->
+<!-- (Created by Importer addon, support TP Hotel Booking. Power by @Thimpress.com ) -->
+<!--  (Optional) Bookings, Rooms, Capacities, Pricing Plans, Addtion Packages, Block Special Date-->
+
+<rss version="2.0" xmlns:hb="http://thimpress.com/">
+	<channel>
+		<hb:siteurl>http://sailing.thimpress.com</hb:siteurl>
+	<!-- users -->
+		<!-- end users -->
+
+	<!-- terms -->
+		<!-- end terms -->
+
+	<!-- attachments -->
+		<!-- end attachments -->
+
+	<!-- rooms -->
+		<!-- end rooms -->
+
+	<!-- extra rooms -->
+		<!-- end extra rooms -->
+
+	<!-- blocked rooms -->
+		<!-- end rooms -->
+
+	<!-- bookings -->
+		<!-- end bookings -->
+
+	<!-- coupons -->
+		<!-- end coupons -->
+
+	<!-- order items -->
+		<!-- end order items -->
+
+	<!-- pricing plan -->
+			<!-- loop pricing item -->
+		<hb:pricing>
+					<hb:plan_id><![CDATA[1]]></hb:plan_id>
+					<hb:room_id><![CDATA[2157]]></hb:room_id>
+					<hb:start_time><![CDATA[]]></hb:start_time>
+					<hb:end_time><![CDATA[]]></hb:end_time>
+					<hb:pricing><![CDATA[a:7:{i:0;s:3:"210";i:1;s:3:"210";i:2;s:3:"210";i:3;s:3:"210";i:4;s:3:"200";i:5;s:3:"220";i:6;s:3:"190";}]]></hb:pricing>
+				</hb:pricing>
+		<!-- end loop pricing item -->
+			<!-- loop pricing item -->
+		<hb:pricing>
+					<hb:plan_id><![CDATA[2]]></hb:plan_id>
+					<hb:room_id><![CDATA[2155]]></hb:room_id>
+					<hb:start_time><![CDATA[]]></hb:start_time>
+					<hb:end_time><![CDATA[]]></hb:end_time>
+					<hb:pricing><![CDATA[a:7:{i:0;s:3:"300";i:1;s:3:"320";i:2;s:3:"310";i:3;s:3:"315";i:4;s:3:"310";i:5;s:3:"320";i:6;s:3:"400";}]]></hb:pricing>
+				</hb:pricing>
+		<!-- end loop pricing item -->
+			<!-- loop pricing item -->
+		<hb:pricing>
+					<hb:plan_id><![CDATA[3]]></hb:plan_id>
+					<hb:room_id><![CDATA[2035]]></hb:room_id>
+					<hb:start_time><![CDATA[]]></hb:start_time>
+					<hb:end_time><![CDATA[]]></hb:end_time>
+					<hb:pricing><![CDATA[a:7:{i:0;s:3:"610";i:1;s:3:"520";i:2;s:3:"520";i:3;s:3:"520";i:4;s:3:"520";i:5;s:3:"520";i:6;s:3:"600";}]]></hb:pricing>
+				</hb:pricing>
+		<!-- end loop pricing item -->
+			<!-- loop pricing item -->
+		<hb:pricing>
+					<hb:plan_id><![CDATA[4]]></hb:plan_id>
+					<hb:room_id><![CDATA[1986]]></hb:room_id>
+					<hb:start_time><![CDATA[]]></hb:start_time>
+					<hb:end_time><![CDATA[]]></hb:end_time>
+					<hb:pricing><![CDATA[a:7:{i:0;s:3:"500";i:1;s:3:"290";i:2;s:3:"290";i:3;s:3:"290";i:4;s:3:"290";i:5;s:3:"290";i:6;s:3:"450";}]]></hb:pricing>
+				</hb:pricing>
+		<!-- end loop pricing item -->
+			<!-- loop pricing item -->
+		<hb:pricing>
+					<hb:plan_id><![CDATA[5]]></hb:plan_id>
+					<hb:room_id><![CDATA[2287]]></hb:room_id>
+					<hb:start_time><![CDATA[]]></hb:start_time>
+					<hb:end_time><![CDATA[]]></hb:end_time>
+					<hb:pricing><![CDATA[a:7:{i:0;s:3:"200";i:1;s:3:"200";i:2;s:3:"200";i:3;s:3:"200";i:4;s:3:"200";i:5;s:3:"200";i:6;s:3:"200";}]]></hb:pricing>
+				</hb:pricing>
+		<!-- end loop pricing item -->
+			<!-- loop pricing item -->
+		<hb:pricing>
+					<hb:plan_id><![CDATA[6]]></hb:plan_id>
+					<hb:room_id><![CDATA[2303]]></hb:room_id>
+					<hb:start_time><![CDATA[]]></hb:start_time>
+					<hb:end_time><![CDATA[]]></hb:end_time>
+					<hb:pricing><![CDATA[a:7:{i:0;s:3:"150";i:1;s:3:"150";i:2;s:3:"150";i:3;s:3:"150";i:4;s:3:"150";i:5;s:3:"150";i:6;s:3:"150";}]]></hb:pricing>
+				</hb:pricing>
+		<!-- end loop pricing item -->
+			<!-- loop pricing item -->
+		<hb:pricing>
+					<hb:plan_id><![CDATA[7]]></hb:plan_id>
+					<hb:room_id><![CDATA[2306]]></hb:room_id>
+					<hb:start_time><![CDATA[]]></hb:start_time>
+					<hb:end_time><![CDATA[]]></hb:end_time>
+					<hb:pricing><![CDATA[a:7:{i:0;s:3:"350";i:1;s:3:"350";i:2;s:3:"350";i:3;s:3:"350";i:4;s:3:"350";i:5;s:3:"350";i:6;s:3:"350";}]]></hb:pricing>
+				</hb:pricing>
+		<!-- end loop pricing item -->
+			<!-- loop pricing item -->
+		<hb:pricing>
+					<hb:plan_id><![CDATA[8]]></hb:plan_id>
+					<hb:room_id><![CDATA[2304]]></hb:room_id>
+					<hb:start_time><![CDATA[]]></hb:start_time>
+					<hb:end_time><![CDATA[]]></hb:end_time>
+					<hb:pricing><![CDATA[a:7:{i:0;s:3:"300";i:1;s:3:"300";i:2;s:3:"300";i:3;s:3:"300";i:4;s:3:"300";i:5;s:3:"300";i:6;s:3:"300";}]]></hb:pricing>
+				</hb:pricing>
+		<!-- end loop pricing item -->
+			<!-- loop pricing item -->
+		<hb:pricing>
+					<hb:plan_id><![CDATA[9]]></hb:plan_id>
+					<hb:room_id><![CDATA[2305]]></hb:room_id>
+					<hb:start_time><![CDATA[]]></hb:start_time>
+					<hb:end_time><![CDATA[]]></hb:end_time>
+					<hb:pricing><![CDATA[a:7:{i:0;s:3:"100";i:1;s:3:"100";i:2;s:3:"100";i:3;s:3:"100";i:4;s:3:"100";i:5;s:3:"100";i:6;s:3:"100";}]]></hb:pricing>
+				</hb:pricing>
+		<!-- end loop pricing item -->
+			<!-- loop pricing item -->
+		<hb:pricing>
+					<hb:plan_id><![CDATA[10]]></hb:plan_id>
+					<hb:room_id><![CDATA[2302]]></hb:room_id>
+					<hb:start_time><![CDATA[]]></hb:start_time>
+					<hb:end_time><![CDATA[]]></hb:end_time>
+					<hb:pricing><![CDATA[a:7:{i:0;s:3:"200";i:1;s:3:"200";i:2;s:3:"200";i:3;s:3:"200";i:4;s:3:"200";i:5;s:3:"200";i:6;s:3:"200";}]]></hb:pricing>
+				</hb:pricing>
+		<!-- end loop pricing item -->
+			<!-- loop pricing item -->
+		<hb:pricing>
+					<hb:plan_id><![CDATA[11]]></hb:plan_id>
+					<hb:room_id><![CDATA[2512]]></hb:room_id>
+					<hb:start_time><![CDATA[]]></hb:start_time>
+					<hb:end_time><![CDATA[]]></hb:end_time>
+					<hb:pricing><![CDATA[a:7:{i:0;s:3:"300";i:1;s:3:"250";i:2;s:3:"250";i:3;s:3:"250";i:4;s:3:"250";i:5;s:3:"250";i:6;s:3:"300";}]]></hb:pricing>
+				</hb:pricing>
+		<!-- end loop pricing item -->
+			<!-- loop pricing item -->
+		<hb:pricing>
+					<hb:plan_id><![CDATA[12]]></hb:plan_id>
+					<hb:room_id><![CDATA[2513]]></hb:room_id>
+					<hb:start_time><![CDATA[]]></hb:start_time>
+					<hb:end_time><![CDATA[]]></hb:end_time>
+					<hb:pricing><![CDATA[a:7:{i:0;s:3:"400";i:1;s:3:"300";i:2;s:3:"300";i:3;s:3:"300";i:4;s:3:"300";i:5;s:3:"300";i:6;s:3:"400";}]]></hb:pricing>
+				</hb:pricing>
+		<!-- end loop pricing item -->
+			<!-- loop pricing item -->
+		<hb:pricing>
+					<hb:plan_id><![CDATA[13]]></hb:plan_id>
+					<hb:room_id><![CDATA[2516]]></hb:room_id>
+					<hb:start_time><![CDATA[]]></hb:start_time>
+					<hb:end_time><![CDATA[]]></hb:end_time>
+					<hb:pricing><![CDATA[a:7:{i:0;s:3:"150";i:1;s:3:"120";i:2;s:3:"120";i:3;s:3:"120";i:4;s:3:"120";i:5;s:3:"120";i:6;s:3:"150";}]]></hb:pricing>
+				</hb:pricing>
+		<!-- end loop pricing item -->
+			<!-- loop pricing item -->
+		<hb:pricing>
+					<hb:plan_id><![CDATA[14]]></hb:plan_id>
+					<hb:room_id><![CDATA[2517]]></hb:room_id>
+					<hb:start_time><![CDATA[]]></hb:start_time>
+					<hb:end_time><![CDATA[]]></hb:end_time>
+					<hb:pricing><![CDATA[a:7:{i:0;s:3:"350";i:1;s:3:"250";i:2;s:3:"250";i:3;s:3:"250";i:4;s:3:"250";i:5;s:3:"250";i:6;s:3:"350";}]]></hb:pricing>
+				</hb:pricing>
+		<!-- end loop pricing item -->
+			<!-- loop pricing item -->
+		<hb:pricing>
+					<hb:plan_id><![CDATA[15]]></hb:plan_id>
+					<hb:room_id><![CDATA[2520]]></hb:room_id>
+					<hb:start_time><![CDATA[]]></hb:start_time>
+					<hb:end_time><![CDATA[]]></hb:end_time>
+					<hb:pricing><![CDATA[a:7:{i:0;s:3:"500";i:1;s:3:"400";i:2;s:3:"400";i:3;s:3:"400";i:4;s:3:"400";i:5;s:3:"400";i:6;s:3:"500";}]]></hb:pricing>
+				</hb:pricing>
+		<!-- end loop pricing item -->
+			<!-- loop pricing item -->
+		<hb:pricing>
+					<hb:plan_id><![CDATA[16]]></hb:plan_id>
+					<hb:room_id><![CDATA[2521]]></hb:room_id>
+					<hb:start_time><![CDATA[]]></hb:start_time>
+					<hb:end_time><![CDATA[]]></hb:end_time>
+					<hb:pricing><![CDATA[a:7:{i:0;s:3:"200";i:1;s:3:"150";i:2;s:3:"150";i:3;s:3:"150";i:4;s:3:"150";i:5;s:3:"150";i:6;s:3:"200";}]]></hb:pricing>
+				</hb:pricing>
+		<!-- end loop pricing item -->
+			<!-- loop pricing item -->
+		<hb:pricing>
+					<hb:plan_id><![CDATA[17]]></hb:plan_id>
+					<hb:room_id><![CDATA[2522]]></hb:room_id>
+					<hb:start_time><![CDATA[]]></hb:start_time>
+					<hb:end_time><![CDATA[]]></hb:end_time>
+					<hb:pricing><![CDATA[a:7:{i:0;s:3:"350";i:1;s:3:"300";i:2;s:3:"300";i:3;s:3:"300";i:4;s:3:"300";i:5;s:3:"300";i:6;s:3:"350";}]]></hb:pricing>
+				</hb:pricing>
+		<!-- end loop pricing item -->
+			<!-- loop pricing item -->
+		<hb:pricing>
+					<hb:plan_id><![CDATA[18]]></hb:plan_id>
+					<hb:room_id><![CDATA[2287]]></hb:room_id>
+					<hb:start_time><![CDATA[2015-11-14 05:00:00]]></hb:start_time>
+					<hb:end_time><![CDATA[2015-11-28 05:00:00]]></hb:end_time>
+					<hb:pricing><![CDATA[a:7:{i:0;s:3:"100";i:1;s:3:"120";i:2;s:3:"150";i:3;s:3:"170";i:4;s:3:"190";i:5;s:3:"200";i:6;s:3:"210";}]]></hb:pricing>
+				</hb:pricing>
+		<!-- end loop pricing item -->
+			<!-- loop pricing item -->
+		<hb:pricing>
+					<hb:plan_id><![CDATA[19]]></hb:plan_id>
+					<hb:room_id><![CDATA[2513]]></hb:room_id>
+					<hb:start_time><![CDATA[2015-11-21 05:00:00]]></hb:start_time>
+					<hb:end_time><![CDATA[2015-11-30 05:00:00]]></hb:end_time>
+					<hb:pricing><![CDATA[a:7:{i:0;s:3:"100";i:1;s:3:"120";i:2;s:3:"140";i:3;s:3:"150";i:4;s:3:"150";i:5;s:3:"200";i:6;s:3:"200";}]]></hb:pricing>
+				</hb:pricing>
+		<!-- end loop pricing item -->
+		<!-- end pricing plans -->
+
+		</channel>
+</rss>
